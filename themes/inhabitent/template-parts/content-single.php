@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Template part for displaying single posts.
  *
@@ -9,11 +10,16 @@
 
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 	<header class="entry-header">
-		<?php if ( has_post_thumbnail() ) : ?>
-			<?php the_post_thumbnail( 'large' ); ?>
+		<?php if (has_post_thumbnail()) : ?>
+			<?php the_post_thumbnail('large'); ?>
 		<?php endif; ?>
 
-		<?php the_title( '<h1 class="entry-title">', '</h1>' ); ?>
+		<?php the_title('<h1 class="entry-title">', '</h1>');
+		if (is_singular('product')) {
+			echo  'the price was ---> $';
+			the_field('product-price');
+		}
+		?>
 
 		<div class="entry-meta">
 			<?php red_starter_posted_on(); ?> / <?php red_starter_comment_count(); ?> / <?php red_starter_posted_by(); ?>
@@ -23,10 +29,11 @@
 	<div class="entry-content">
 		<?php the_content(); ?>
 		<?php
-			wp_link_pages( array(
-				'before' => '<div class="page-links">' . esc_html( 'Pages:' ),
-				'after'  => '</div>',
-			) );
+		wp_link_pages(array(
+			'before' => '<div class="page-links">' . esc_html('Pages:'),
+			'after'  => '</div>',
+		));
+
 		?>
 	</div><!-- .entry-content -->
 

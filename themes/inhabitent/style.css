@@ -416,16 +416,10 @@ big {
   align-items: flex-end;
   justify-content: flex-end;
   position: relative;
-  color: white;
 }
 .site-header .main-navigation .search-form .search-field {
   display: none;
-  background: transparent;
-  color: white;
-  border: 0;
-}
-.site-header .main-navigation .search-form .search-field:before, .site-header .main-navigation .search-form .search-field:after {
-  transition: 0.5s linear;
+  transition: 0.5s ease-in-out;
 }
 .site-header .main-navigation .search-form .search-submit {
   display: none;
@@ -434,25 +428,20 @@ big {
   flex: 1 0 auto;
   order: 0;
   position: relative;
-  padding: 0.5%;
+  padding: 1%;
 }
 .site-header .main-navigation .menu-top-menu-container ul {
   display: flex;
   flex-flow: row nowrap;
   align-items: center;
-}
-.site-header .main-navigation .menu-top-menu-container ul:before, .site-header .main-navigation .menu-top-menu-container ul:after {
-  transition: 0.5s linear;
+  transition: 0.5s ease-in-out;
 }
 .site-header .main-navigation .menu-top-menu-container ul li {
   padding: 0 1%;
   flex: 1 0 auto;
 }
-.site-header .main-navigation .menu-top-menu-container ul li:before, .site-header .main-navigation .menu-top-menu-container ul li:after {
-  transition: 0.5s linear;
-}
 .site-header .main-navigation .menu-top-menu-container ul li:nth-child(1) {
-  margin-left: 50%;
+  margin-left: 60%;
 }
 .site-header .main-navigation .menu-top-menu-container ul li:nth-child(5) {
   order: -1;
@@ -477,70 +466,8 @@ big {
 
 .head-pic {
   width: 100%;
-  height: 50vmax;
+  height: 80vmax;
   z-index: 1;
-}
-
-.site-content {
-  width: 100%;
-  height: auto;
-}
-
-.site-footer {
-  width: 100%;
-  background-image: url("res/logos/dark-wood@2x.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  padding: 2% 0;
-}
-.site-footer p {
-  width: 100%;
-  text-align: center;
-  color: white;
-}
-.site-footer .site-info {
-  width: 80%;
-  display: grid;
-  margin: 0 auto;
-  grid-template-columns: 1fr 1fr 1fr;
-  color: white;
-}
-.site-footer .site-info .contact-info li {
-  padding: 0.5% 0;
-  list-style-type: none;
-}
-.site-footer .site-info .contact-info li:nth-child(1) {
-  color: #d99054;
-  font-weight: bold;
-  font-size: 1.5vmax;
-}
-.site-footer .site-info .contact-info li i {
-  color: white;
-  font-size: 2vmax;
-  padding: 0 1%;
-}
-.site-footer .site-info .contact-info li i:hover {
-  cursor: pointer;
-}
-.site-footer .site-info .business-hour li {
-  padding: 0.5% 0;
-  list-style-type: none;
-}
-.site-footer .site-info .business-hour li:nth-child(1) {
-  color: #d99054;
-  font-weight: bold;
-  font-size: 1.5vmax;
-}
-.site-footer .site-info .business-hour li strong {
-  font-weight: bold;
-}
-.site-footer .site-info img {
-  color: white;
-  text-decoration-color: white;
-  margin: auto;
-}
-.site-footer .site-info img:hover {
-  cursor: pointer;
 }
 
 /*--------------------------------------------------------------

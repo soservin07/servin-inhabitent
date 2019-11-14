@@ -19,22 +19,4 @@
   $(document).on('blur', '.search-field', function() {
     $(this).css('display', 'none');
   });
-
-
-
-
-//*******CLICK event at FOOTER PAGE */
-$(document).on('click','.footer-logo',function(e){
-  window.location.href = window.location.href;
-  e.preventDefault();
-});
-
-
-
-
-
-
-
 })(jQuery);
-
-

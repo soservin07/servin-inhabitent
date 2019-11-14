@@ -93,16 +93,9 @@
       align-items: flex-end;
       justify-content: flex-end;
       position: relative;
-      color:white;
       .search-field {
         display: none;
-        
-        background: transparent;
-        color:white;
-        border:0;
-        &:before , &:after{
-          transition: 0.5s linear;
-        }
+        transition: 0.5s ease-in-out;
       }
       .search-submit {
         display: none;
@@ -112,20 +105,15 @@
       flex: 1 0 auto;
       order: 0;
       position: relative;
-      padding: 0.5%;
+      padding: 1%;
       ul {
         display: flex;
         flex-flow: row nowrap;
         align-items: center;
-        &:before , &:after{
-          transition: 0.5s linear;
-        }
+        transition: 0.5s ease-in-out;
         li {
           padding: 0 1%;
           flex: 1 0 auto;
-          &:before , &:after{
-            transition: 0.5s linear;
-          }
           &:nth-child(1) {
             margin-left: 50%;
           }
@@ -156,7 +144,7 @@
 }
 .head-pic {
   width: 100%;
-  height: 50vmax;
+  height: 80vmax;
   z-index: 1;
 }
 //*************END OF HEADER
@@ -164,68 +152,4 @@
 .site-content {
   width: 100%;
   height: auto;
-}
-//***********END of CONTENTS
-//***************Start of FOOTER
-.site-footer{
-  width:100%;
-  background-image:url('res/logos/dark-wood@2x.png');
-  background-repeat: no-repeat;
-  background-size: cover;
-  padding: 2% 0;
-  p{
-    width:100%;
-    text-align: center;
-    color:white;
-  }
-  .site-info{
-    width:80%;
-    display:grid;
-    margin:0 auto;
-    grid-template-columns:1fr 1fr 1fr;
-    color:white;
-    .contact-info{
-      li{
-        padding:0.5% 0;
-        list-style-type: none;
-        &:nth-child(1){
-          color:#d99054;
-          font-weight: bold;
-          font-size: 1.5vmax;
-        }
-        i{
-          color:white;
-          font-size:2vmax;
-          padding:0 1%;
-          &:hover{
-            cursor: pointer;
-          }
-        }
-      }
-    }
-    .business-hour{
-      li{
-        padding:0.5% 0;
-        list-style-type: none;
-        &:nth-child(1){
-          color:#d99054;
-          font-weight: bold;
-          font-size: 1.5vmax;
-        }
-        strong{
-          font-weight: bold;
-        }
-        
-      }
-    }
-    img{
-      color:white;
-      text-decoration-color: white;
-      margin:auto;
-      &:hover{
-        cursor: pointer;
-      }
-    }
-  }
-  
 }

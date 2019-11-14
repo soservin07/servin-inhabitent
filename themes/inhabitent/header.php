@@ -50,15 +50,15 @@
 				</button> -->
 			</nav><!-- #site-navigation -->
 			<div class="head-pic" style='background: linear-gradient(
-										to bottom,
-										rgba(0, 0, 0, 0.3),
-										0,
-										rgba(0, 0, 0, 0.2)
-										),
-										url("<?php echo $img2; ?>"),url("<?php echo $img['url']; ?>");
-										background-repeat:no-repeat;
-										background-size:100vmax,15vmax;
-										background-position:left top ,center'>
+      to bottom,
+      rgba(0, 0, 0, 0.3),
+      0,
+      rgba(0, 0, 0, 0.2)
+    ),
+	 url("<?php echo $img2; ?>"),url("<?php echo $img['url']; ?>");
+	 background-repeat:no-repeat;
+	 background-size:cover,20vmax;
+	 background-position:left ,center'>
 			</div>
 		</header> <!-- #masthead -->
 

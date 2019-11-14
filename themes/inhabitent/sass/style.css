@@ -378,8 +378,9 @@ big {
 }
 
 .site-header {
+  background: rgba(0, 0, 0, 0.212);
   width: 100%;
-  padding: 0;
+  padding: 1% 0;
 }
 .site-header a {
   text-decoration: none;
@@ -390,24 +391,18 @@ big {
   list-style-type: none;
 }
 .site-header .main-navigation {
-  background: transparent;
   color: white;
   display: flex;
   flex-flow: row nowrap;
   margin: 0 auto;
-  padding: 0;
   justify-content: space-around;
   align-items: center;
-  width: 100%;
-  position: fixed;
-  z-index: 2;
 }
 .site-header .main-navigation .logo-head {
   height: auto;
-  width: 4vmax;
+  width: 5vmax;
 }
 .site-header .main-navigation .search-form {
-  margin-right: 2%;
   flex: 0 2 auto;
   order: 1;
   display: flex;
@@ -428,32 +423,25 @@ big {
   flex: 1 0 auto;
   order: 0;
   position: relative;
-  padding: 1%;
 }
 .site-header .main-navigation .menu-top-menu-container ul {
   display: flex;
   flex-flow: row nowrap;
   align-items: center;
-  transition: 0.5s ease-in-out;
 }
 .site-header .main-navigation .menu-top-menu-container ul li {
   padding: 0 1%;
   flex: 1 0 auto;
 }
-.site-header .main-navigation .menu-top-menu-container ul li:nth-child(1) {
-  margin-left: 60%;
-}
 .site-header .main-navigation .menu-top-menu-container ul li:nth-child(5) {
   order: -1;
-  padding-left: 3%;
-  position: fixed;
-  z-index: -1;
+  flex: 1 0 50%;
 }
 .site-header .main-navigation .menu-top-menu-container ul li:nth-child(6) {
   width: initial;
   text-align: center;
   color: white;
-  font-size: 2vmax;
+  font-size: 2.5vmax;
   align-self: center;
 }
 .site-header .main-navigation .menu-top-menu-container ul li:nth-child(6) :hover {
@@ -465,9 +453,7 @@ big {
 }
 
 .head-pic {
-  width: 100%;
-  height: 80vmax;
-  z-index: 1;
+  border: 1px dotted red;
 }
 
 /*--------------------------------------------------------------

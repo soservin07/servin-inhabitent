@@ -17,6 +17,11 @@
 	<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
 
 	<?php wp_head(); ?>
+	<?php
+	//add_action('wp_enqueue_scripts', function () {
+	//	wp_enqueue_script('jquery');
+	//}); 
+	?>
 </head>
 
 <body <?php body_class(); ?>>
@@ -29,14 +34,32 @@
 			</div><!-- .site-branding -->
 
 			<nav id="site-navigation" class="main-navigation" role="navigation">
-				<?php wp_nav_menu(
+				<?php
+				get_search_form();
+				wp_nav_menu(
 					array(
 						'theme_location' => 'top-menu',
 					)
 				);
-				// get_search_form();
+				$img = get_field('front-banner');
+				$img2 = get_template_directory_uri() . '/res/logos/inhabitent-logo-full.svg';
 				?>
+
+				<!-- <button class="search-link">
+					<i class="fa fa-search"></i>
+				</button> -->
 			</nav><!-- #site-navigation -->
-		</header><!-- #masthead -->
+			<div class="head-pic" style='background: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.3),
+      0,
+      rgba(0, 0, 0, 0.2)
+    ),
+	 url("<?php echo $img2; ?>"),url("<?php echo $img['url']; ?>");
+	 background-repeat:no-repeat;
+	 background-size:cover,20vmax;
+	 background-position:left ,center'>
+			</div>
+		</header> <!-- #masthead -->
 
 		<div id="content" class="site-content">

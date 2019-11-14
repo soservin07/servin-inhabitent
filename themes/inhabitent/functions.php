@@ -74,26 +74,27 @@ add_action('widgets_init', 'red_starter_widgets_init');
 /**
  * Filter the stylesheet_uri to output the minified CSS file.
  */
-function red_starter_minified_css($stylesheet_uri, $stylesheet_dir_uri)
-{
-	if (file_exists(get_template_directory() . 'style.css')) {
-		$stylesheet_uri = $stylesheet_dir_uri . 'style.css';
-	}
+// function red_starter_minified_css($stylesheet_uri, $stylesheet_dir_uri)
+// {
+// 	if (file_exists(get_template_directory() . 'style.css')) {
+// 		$stylesheet_uri = $stylesheet_dir_uri . 'style.css';
+// 	}
 
-	return $stylesheet_uri;
-}
-add_filter('stylesheet_uri', 'red_starter_minified_css', 10, 2);
+// 	return $stylesheet_uri;
+// }
+// add_filter('stylesheet_uri', 'red_starter_minified_css', 10, 2);
 
 /**
  * Enqueue scripts and styles.
  */
 function red_starter_scripts()
 {
-	wp_enqueue_style('red-starter-style', get_stylesheet_uri());
-
+	wp_enqueue_style('style', get_template_directory_uri() . '/style.css');
+	wp_enqueue_style('fontawesome', 'https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css');
 	// wp_enqueue_script('red-starter-navigation', get_template_directory_uri() . '/build/js/navigation.min.js', array(), '20151215', true);
 	// wp_enqueue_script('red-starter-skip-link-focus-fix', get_template_directory_uri() . '/build/js/skip-link-focus-fix.min.js', array(), '20151215', true);
-	wp_enqueue_script('main-js', get_template_directory_uri() . '/js/main.js');
+	wp_enqueue_script('main', get_template_directory_uri() . '/js/main.js');
+	// echo get_template_directory_uri() . '/js/main.js';
 	if (is_singular() && comments_open() && get_option('thread_comments')) {
 		wp_enqueue_script('comment-reply');
 	}
@@ -120,8 +121,9 @@ register_nav_menus(
 );
 function add_last_nav_item($items)
 {
-	$items .= '<li>' . get_search_form() . '</li>';
-	$items .= '<li>' . the_field('logo-light') . '</li>';
+	// $items .= '<li>' . get_search_form() . '</li>';
+	$items .= '<li><img src="' . get_template_directory_uri() . '/res/logos/inhabitent-logo-tent-white.svg' . '" class="logo-head"></li>';
+	$items .= '<li><i class="fa fa-search" ></i></li>';
 	return $items;
 }
 add_filter('wp_nav_menu_items', 'add_last_nav_item');

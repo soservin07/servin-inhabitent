@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.2.4" created="2019-11-15 03:35" -->
+	<!-- generator="WordPress/5.2.4" created="2019-11-15 06:16" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>RED-Inhabitent</title>
 	<link>http://localhost:8888/inhabitent</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Fri, 15 Nov 2019 03:35:44 +0000</pubDate>
+	<pubDate>Fri, 15 Nov 2019 06:16:44 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost:8888/inhabitent</wp:base_site_url>
@@ -183,6 +183,18 @@
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_5dcb23d82e62f]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1573599506]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb23d82e62f]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>test-image</title>
@@ -206,6 +218,18 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1573599506]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb24802e630]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
 		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
 		</wp:postmeta>
@@ -251,6 +275,18 @@
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_5dcb24a42e631]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1573599506]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb24a42e631]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>Product_Sleep_Price</title>
@@ -274,6 +310,10 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -347,6 +387,10 @@
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>front-banner</title>
@@ -414,6 +458,10 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -550,6 +598,10 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -738,6 +790,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[beach-bonfire]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[beach-bonfire]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>canoe-girl</title>
@@ -768,6 +824,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3000;s:6:"height";i:2000;s:4:"file";s:22:"2019/11/canoe-girl.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:22:"canoe-girl-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"canoe-girl-800x533.jpg";s:5:"width";i:800;s:6:"height";i:533;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:22:"canoe-girl-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:24:"canoe-girl-1600x1067.jpg";s:5:"width";i:1600;s:6:"height";i:1067;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[canoe-girl]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
@@ -808,6 +868,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[mountain-hikers]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[mountain-hikers]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>night-sky</title>
@@ -838,6 +902,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3000;s:6:"height";i:2000;s:4:"file";s:21:"2019/11/night-sky.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"night-sky-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"night-sky-800x533.jpg";s:5:"width";i:800;s:6:"height";i:533;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:21:"night-sky-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"night-sky-1600x1067.jpg";s:5:"width";i:1600;s:6:"height";i:1067;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[night-sky]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
@@ -878,6 +946,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[glamping]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[glamping]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>healthy-camp-food</title>
@@ -913,6 +985,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[healthy-camp-food]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[healthy-camp-food]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>solo-camping</title>
@@ -943,6 +1019,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2515;s:6:"height";i:1830;s:4:"file";s:24:"2019/11/solo-camping.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"solo-camping-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"solo-camping-800x582.jpg";s:5:"width";i:800;s:6:"height";i:582;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"solo-camping-768x559.jpg";s:5:"width";i:768;s:6:"height";i:559;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:26:"solo-camping-1600x1164.jpg";s:5:"width";i:1600;s:6:"height";i:1164;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[solo-camping]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
@@ -1014,6 +1094,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[warm-cocktail]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[warm-cocktail]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>beach-tent</title>
@@ -1044,6 +1128,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2600;s:6:"height";i:1950;s:4:"file";s:22:"2019/11/beach-tent.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:22:"beach-tent-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"beach-tent-800x600.jpg";s:5:"width";i:800;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:22:"beach-tent-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:24:"beach-tent-1600x1200.jpg";s:5:"width";i:1600;s:6:"height";i:1200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[beach-tent]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[beach-tent]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
@@ -1150,6 +1242,200 @@
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[film-camera]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[film-camera]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Field Test</title>
+		<link>http://localhost:8888/inhabitent/?post_type=acf-field-group&#038;p=96</link>
+		<pubDate>Tue, 12 Nov 2019 21:32:47 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/?post_type=acf-field-group&#038;p=96</guid>
+		<description></description>
+		<content:encoded><![CDATA[a:7:{s:8:"location";a:1:{i:0;a:1:{i:0;a:3:{s:5:"param";s:9:"post_type";s:8:"operator";s:2:"==";s:5:"value";s:4:"post";}}}s:8:"position";s:6:"normal";s:5:"style";s:7:"default";s:15:"label_placement";s:3:"top";s:21:"instruction_placement";s:5:"label";s:14:"hide_on_screen";a:6:{i:0;s:9:"permalink";i:1;s:11:"the_content";i:2;s:4:"slug";i:3;s:6:"author";i:4;s:10:"categories";i:5;s:4:"tags";}s:11:"description";s:0:"";}]]></content:encoded>
+		<excerpt:encoded><![CDATA[field-test]]></excerpt:encoded>
+		<wp:post_id>96</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-12 21:32:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-12 21:32:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[group_5dcb23d22adea__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[acf-field-group]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1573599506]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[group_5dcb23d22adea]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1573599506]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[group_5dcb23d22adea]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>STAR-GAZING AT THE NIGHT SKY</title>
+		<link>http://localhost:8888/inhabitent/adventures/star-gazing-at-the-night-sky/</link>
+		<pubDate>Fri, 15 Nov 2019 06:14:12 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/?post_type=adventures&#038;p=191</guid>
+		<description></description>
+		<content:encoded><![CDATA[Tote bag pitchfork food truck kickstarter quinoa sustainable. Literally +1 normcore bitters selvage, meditation bicycle rights jean shorts fap crucifix put a bird on it. Art party chillwave craft beer, distillery PBR&amp;B hoodie salvia bespoke keytar. Meditation chicharrones chartreuse meggings. Tattooed franzen narwhal tote bag. Raw denim chambray mlkshk tofu synth. Sartorial mlkshk four loko meggings, lumbersexual butcher vegan photo booth small batch vice pop-up salvia truffaut heirloom disrupt.
+
+You probably haven’t heard of them ethical migas pour-over. You probably haven’t heard of them freegan hoodie butcher wayfarers truffaut. Artisan squid mustache thundercats +1. Asymmetrical selvage plaid butcher. Cronut small batch fashion axe blog VHS ennui. Vegan biodiesel four loko chambray, pickled marfa shoreditch sartorial chia stumptown mumblecore put a bird on it tacos. Keytar blue bottle tacos, stumptown skateboard pug sriracha ramps offal fap.
+
+Stumptown lomo migas squid, ennui flexitarian normcore swag four dollar toast neutra authentic YOLO pour-over messenger bag organic. Chia distillery tofu sriracha lomo. Retro food truck hammock, pinterest next level everyday carry fanny pack meh typewriter pug bespoke tilde wayfarers williamsburg. Readymade flannel iPhone hella, brooklyn asymmetrical tacos actually humblebrag tilde affogato four dollar toast post-ironic blue bottle. Fashion axe mumblecore cornhole scenester. Authentic tofu XOXO vegan literally. Yuccie single-origin coffee fixie food truck, hashtag cardigan poutine hoodie slow-carb fanny pack flexitarian.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>191</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-15 06:14:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-15 06:14:12]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[star-gazing-at-the-night-sky]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[adventures]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[15]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>TAKING IN THE VIEW AT BIG MOUNTAIN</title>
+		<link>http://localhost:8888/inhabitent/adventures/taking-in-the-view-at-big-mountain/</link>
+		<pubDate>Fri, 15 Nov 2019 06:14:44 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/?post_type=adventures&#038;p=193</guid>
+		<description></description>
+		<content:encoded><![CDATA[Man braid occupy crucifix shoreditch gluten-free skateboard. Artisan pour-over green juice swag cred before they sold out, cliche occupy keytar ennui aesthetic YOLO. Deep v chicharrones farm-to-table jean shorts. Pug raw denim portland schlitz, fanny pack church-key beard trust fund fashion axe pork belly tumblr waistcoat chillwave vinyl lo-fi. Gentrify direct trade post-ironic, tote bag biodiesel bushwick vegan synth readymade wolf cray aesthetic. Tacos farm-to-table next level occupy kitsch squid. Meggings brunch migas blog selvage yuccie farm-to-table.
+
+Banjo crucifix lomo mixtape vice. Hoodie kogi lumbersexual, williamsburg cred jean shorts pork belly trust fund scenester disrupt ramps kickstarter 3 wolf moon readymade food truck. Chia thundercats bespoke mustache, meggings flannel ugh slow-carb artisan. Cronut put a bird on it pickled semiotics yuccie. Occupy echo park fanny pack humblebrag. Fingerstache semiotics artisan food truck blue bottle. Gentrify drinking vinegar tilde, sustainable marfa chillwave hashtag direct trade distillery pinterest +1 wolf selfies.
+
+Cardigan cronut fingerstache chartreuse hoodie everyday carry, pour-over kickstarter ethical try-hard stumptown truffaut kombucha whatever. 90’s bitters swag, intelligentsia XOXO affogato mlkshk everyday carry asymmetrical forage schlitz sustainable 8-bit lo-fi. Kogi tofu readymade, before they sold out put a bird on it banjo bitters master cleanse tumblr beard. Tousled etsy viral, retro stumptown squid iPhone poutine venmo. Retro narwhal gastropub banjo cold-pressed bitters, bespoke aesthetic single-origin coffee four loko cray. Man braid vinyl biodiesel, cliche DIY bitters hashtag austin polaroid portland intelligentsia kogi affogato photo booth. Pinterest cronut gastropub kogi knausgaard portland.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>193</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-15 06:14:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-15 06:14:44]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[taking-in-the-view-at-big-mountain]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[adventures]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>A NIGHT WITH FRIENDS AT THE BEACH</title>
+		<link>http://localhost:8888/inhabitent/adventures/a-night-with-friends-at-the-beach/</link>
+		<pubDate>Fri, 15 Nov 2019 06:15:06 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/?post_type=adventures&#038;p=195</guid>
+		<description></description>
+		<content:encoded><![CDATA[Street art VHS tattooed iPhone humblebrag. Listicle literally crucifix, meditation hoodie cold-pressed street art brooklyn four dollar toast swag. Lumbersexual tacos kinfolk, sriracha normcore meggings stumptown williamsburg neutra lo-fi 8-bit. Authentic microdosing try-hard pug brunch knausgaard. IPhone narwhal pour-over, tote bag man bun typewriter aesthetic sartorial pug mumblecore. Polaroid lo-fi hoodie, wayfarers chillwave quinoa cliche echo park +1 brooklyn etsy paleo gentrify salvia. Pitchfork 90’s hammock, 3 wolf moon bicycle rights chia slow-carb forage kombucha chicharrones.
+
+Franzen affogato next level artisan gluten-free bespoke. Brooklyn twee occupy, vinyl yr roof party jean shorts irony cray hella. Bushwick tilde pabst pour-over, semiotics poutine etsy tousled chambray. Slow-carb echo park jean shorts seitan. Salvia aesthetic gentrify man braid, messenger bag mixtape offal biodiesel chartreuse neutra. Williamsburg organic kickstarter pop-up literally. VHS lumbersexual migas roof party disrupt sartorial austin skateboard ethical.
+
+Fixie bushwick tacos gastropub. Cliche neutra man bun vinyl authentic. Tote bag keytar synth knausgaard, asymmetrical flannel bushwick tacos dreamcatcher bitters small batch cronut godard hammock you probably haven’t heard of them. Swag meditation ramps crucifix chia messenger bag, tattooed schlitz banjo selfies farm-to-table mixtape. Direct trade fingerstache wayfarers franzen, godard intelligentsia bitters tacos chillwave etsy twee pabst plaid knausgaard single-origin coffee. Portland pug flexitarian, umami kale chips helvetica mustache taxidermy gluten-free disrupt fanny pack keffiyeh. Jean shorts pabst kinfolk, whatever vice wolf squid gastropub blog franzen swag.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>195</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-15 06:15:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-15 06:15:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[a-night-with-friends-at-the-beach]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[adventures]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[12]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>GETTING BACK TO NATURE IN A CANOE</title>
+		<link>http://localhost:8888/inhabitent/adventures/getting-back-to-nature-in-a-canoe/</link>
+		<pubDate>Fri, 15 Nov 2019 06:15:25 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/?post_type=adventures&#038;p=197</guid>
+		<description></description>
+		<content:encoded><![CDATA[Semiotics flannel artisan, squid whatever YOLO cold-pressed thundercats slow-carb normcore. Meggings lo-fi franzen waistcoat tattooed, pour-over etsy artisan. Seitan butcher tacos gentrify. Raw denim fap yr shabby chic. Thundercats mustache mlkshk messenger bag. Cronut crucifix wolf, artisan VHS skateboard chambray single-origin coffee fap. Shabby chic brooklyn meh kale chips, pour-over forage farm-to-table irony flannel mumblecore heirloom pickled cred.
+
+Swag chillwave chicharrones quinoa. Plaid yr small batch four loko. Polaroid scenester tattooed, biodiesel quinoa mumblecore 3 wolf moon leggings iPhone small batch sartorial meditation pop-up cardigan. Chillwave kitsch asymmetrical artisan, actually kogi cronut portland pork belly cardigan sustainable. Letterpress hammock heirloom kogi selvage biodiesel. Scenester occupy cornhole, banh mi post-ironic taxidermy crucifix mumblecore. Authentic pug next level, health goth slow-carb truffaut neutra literally biodiesel butcher retro.
+
+Intelligentsia food truck taxidermy before they sold out hoodie mustache. Disrupt trust fund gluten-free, tilde you probably haven’t heard of them whatever seitan hammock listicle tumblr. Venmo kale chips kitsch authentic raw denim pabst. Quinoa chicharrones flannel PBR&amp;B, narwhal sartorial jean shorts VHS DIY bespoke gastropub hella. Man braid squid humblebrag migas leggings, semiotics hella selvage kombucha blog williamsburg synth before they sold out. Plaid synth chicharrones, before they sold out neutra single-origin coffee cred. Pitchfork small batch etsy readymade, post-ironic pug viral.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>197</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-15 06:15:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-15 06:15:25]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[getting-back-to-nature-in-a-canoe]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[adventures]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[13]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>flannel-shirt</title>
@@ -1180,6 +1466,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2600;s:6:"height";i:1722;s:4:"file";s:25:"2019/11/flannel-shirt.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"flannel-shirt-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"flannel-shirt-800x530.jpg";s:5:"width";i:800;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:25:"flannel-shirt-768x509.jpg";s:5:"width";i:768;s:6:"height";i:509;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:27:"flannel-shirt-1600x1060.jpg";s:5:"width";i:1600;s:6:"height";i:1060;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[flannel-shirt]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
@@ -1220,6 +1510,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[gas-stove]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[gas-stove]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>hand-knit-toque</title>
@@ -1250,6 +1544,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2600;s:6:"height";i:1845;s:4:"file";s:27:"2019/11/hand-knit-toque.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:27:"hand-knit-toque-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:27:"hand-knit-toque-800x568.jpg";s:5:"width";i:800;s:6:"height";i:568;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:27:"hand-knit-toque-768x545.jpg";s:5:"width";i:768;s:6:"height";i:545;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:29:"hand-knit-toque-1600x1135.jpg";s:5:"width";i:1600;s:6:"height";i:1135;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hand-knit-toque]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
@@ -1290,43 +1588,9 @@
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[hiking-boots]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title>Field Test</title>
-		<link>http://localhost:8888/inhabitent/?post_type=acf-field-group&#038;p=96</link>
-		<pubDate>Tue, 12 Nov 2019 21:32:47 +0000</pubDate>
-		<dc:creator><![CDATA[soservin07]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/inhabitent/?post_type=acf-field-group&#038;p=96</guid>
-		<description></description>
-		<content:encoded><![CDATA[a:7:{s:8:"location";a:1:{i:0;a:1:{i:0;a:3:{s:5:"param";s:9:"post_type";s:8:"operator";s:2:"==";s:5:"value";s:4:"post";}}}s:8:"position";s:6:"normal";s:5:"style";s:7:"default";s:15:"label_placement";s:3:"top";s:21:"instruction_placement";s:5:"label";s:14:"hide_on_screen";a:6:{i:0;s:9:"permalink";i:1;s:11:"the_content";i:2;s:4:"slug";i:3;s:6:"author";i:4;s:10:"categories";i:5;s:4:"tags";}s:11:"description";s:0:"";}]]></content:encoded>
-		<excerpt:encoded><![CDATA[field-test]]></excerpt:encoded>
-		<wp:post_id>96</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-12 21:32:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-12 21:32:47]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[group_5dcb23d22adea__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[acf-field-group]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1573599506]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[group_5dcb23d22adea]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hiking-boots]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1358,6 +1622,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2600;s:6:"height";i:1722;s:4:"file";s:25:"2019/11/large-thermos.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"large-thermos-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"large-thermos-800x530.jpg";s:5:"width";i:800;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:25:"large-thermos-768x509.jpg";s:5:"width";i:768;s:6:"height";i:509;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:27:"large-thermos-1600x1060.jpg";s:5:"width";i:1600;s:6:"height";i:1060;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[large-thermos]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
@@ -1398,6 +1666,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[leather-satchel]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[leather-satchel]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>nylon-tents</title>
@@ -1428,6 +1700,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2600;s:6:"height";i:1732;s:4:"file";s:23:"2019/11/nylon-tents.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"nylon-tents-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:23:"nylon-tents-800x533.jpg";s:5:"width";i:800;s:6:"height";i:533;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:23:"nylon-tents-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:25:"nylon-tents-1600x1066.jpg";s:5:"width";i:1600;s:6:"height";i:1066;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[nylon-tents]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
@@ -1468,6 +1744,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[rustic-tools]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[rustic-tools]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>stew-can</title>
@@ -1498,6 +1778,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2600;s:6:"height";i:1733;s:4:"file";s:20:"2019/11/stew-can.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:20:"stew-can-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:20:"stew-can-800x533.jpg";s:5:"width";i:800;s:6:"height";i:533;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:20:"stew-can-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"stew-can-1600x1066.jpg";s:5:"width";i:1600;s:6:"height";i:1066;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[stew-can]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
@@ -1538,6 +1822,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[travel-hammock]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[travel-hammock]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>weathered-canoes</title>
@@ -1573,6 +1861,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[weathered-canoes]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[weathered-canoes]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>wood-ax</title>
@@ -1603,6 +1895,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2600;s:6:"height";i:1733;s:4:"file";s:19:"2019/11/wood-ax.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"wood-ax-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:19:"wood-ax-800x533.jpg";s:5:"width";i:800;s:6:"height";i:533;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:19:"wood-ax-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:21:"wood-ax-1600x1066.jpg";s:5:"width";i:1600;s:6:"height";i:1066;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wood-axe]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
@@ -1900,6 +2196,459 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>camper-van</title>
+		<link>http://localhost:8888/inhabitent/product/camper-van/camper-van-2/</link>
+		<pubDate>Tue, 12 Nov 2019 23:08:42 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/wp-content/uploads/2019/11/camper-van-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>110</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-12 23:08:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-12 23:08:42]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[camper-van-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>104</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/inhabitent/wp-content/uploads/2019/11/camper-van-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/camper-van-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1125;s:4:"file";s:24:"2019/11/camper-van-1.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"camper-van-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"camper-van-1-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"camper-van-1-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:25:"camper-van-1-1600x900.jpg";s:5:"width";i:1600;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[camper-van]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[camper-van]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>home-hero</title>
+		<link>http://localhost:8888/inhabitent/front-page/home-hero/</link>
+		<pubDate>Wed, 13 Nov 2019 21:01:23 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/wp-content/uploads/2019/11/home-hero.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>152</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-13 21:01:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-13 21:01:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home-hero]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>46</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/inhabitent/wp-content/uploads/2019/11/home-hero.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/home-hero.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3600;s:6:"height";i:2404;s:4:"file";s:21:"2019/11/home-hero.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"home-hero-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"home-hero-800x534.jpg";s:5:"width";i:800;s:6:"height";i:534;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:21:"home-hero-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"home-hero-1600x1068.jpg";s:5:"width";i:1600;s:6:"height";i:1068;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[home-hero]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[home-hero]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>van-camper</title>
+		<link>http://localhost:8888/inhabitent/van-camping-photo-contest/van-camper-2/</link>
+		<pubDate>Thu, 14 Nov 2019 23:32:45 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/wp-content/uploads/2019/04/van-camper.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>175</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-14 23:32:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-14 23:32:45]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[van-camper-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>49</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/inhabitent/wp-content/uploads/2019/04/van-camper.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/04/van-camper.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1026;s:4:"file";s:22:"2019/04/van-camper.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:22:"van-camper-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"van-camper-800x547.jpg";s:5:"width";i:800;s:6:"height";i:547;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:22:"van-camper-768x525.jpg";s:5:"width";i:768;s:6:"height";i:525;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[van-camper]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[van-camper]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Sample Page</title>
+		<link>http://localhost:8888/inhabitent/sample-page__trashed/</link>
+		<pubDate>Thu, 07 Nov 2019 22:42:35 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="http://localhost:8888/inhabitent/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-07 22:42:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-07 22:42:35]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1573171843]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1573171843]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>ABOUT</title>
+		<link>http://localhost:8888/inhabitent/about/</link>
+		<pubDate>Fri, 08 Nov 2019 00:15:46 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/?page_id=7</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:html -->
+<h2>Our Story</h2>
+
+<span>Inhabitent Camping Supply Co.</span> has been <i>Vancouver</i> baked-good icon for more than two whole months! Customers often comment on the bustle of activity they see in store…that’s where the magic happens every day.
+
+We want to bridge the gap between the comfort of city life and the lovely Instagram-worthiness of the great outdoors that surround us. We sell gear that’s fun and functional. So much fun, in fact, that you’ll want to pitch a tent inside your one-bedroom apartment so you can use it everyday.
+
+<h2>Our Team</h2>
+
+Inhabitent Camping Supply Co.’s staff is made up of an amazing team of inspired retail associ-ates. We really know our stuff when it comes to travel hammocks and campfire cooking gadgets. From a provincial park campground to the back-country, our staff knows what you need to outfit your outdoor outing. 
+
+Our shop in nestled away in a lovely little corner of Vancouver. Pop in, say hi, and try out our tents!
+<!-- /wp:html -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-08 00:15:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-08 00:15:46]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>PRODUCTS</title>
+		<link>http://localhost:8888/inhabitent/products/</link>
+		<pubDate>Fri, 08 Nov 2019 00:37:15 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/?page_id=37</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:html -->
+<h2>Shop Stuff</h2>
+<ul>
+<li>DO</li>
+<li>EAT</li>
+<li>SLEEP</li>
+<li>WEAR</li>
+</ul>
+
+<!-- /wp:html -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>37</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-08 00:37:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-08 00:37:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[products]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>journal</title>
+		<link>http://localhost:8888/inhabitent/journal/</link>
+		<pubDate>Fri, 08 Nov 2019 00:38:50 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/?page_id=39</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>39</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-08 00:38:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-08 00:38:50]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[journal]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>find-us</title>
+		<link>http://localhost:8888/inhabitent/find-us/</link>
+		<pubDate>Fri, 08 Nov 2019 21:54:31 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/?page_id=41</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:html -->
+<h2>FIND US</h2>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>MAP HERE</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<h2>WE TAKE CAMPING VERY SERIOUSLY.</h2>
+Inhabitent Camping Supply Co. knows what it takes to outfit a camping trip right. From flannel shirts to artisanal axes, we’ve got your covered. Please contact us below with any questions comments or suggestions.
+<!-- /wp:html -->
+
+<!-- wp:shortcode -->
+[contact-form-7 id="42" title="Contact form 1"]
+<!-- /wp:shortcode -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>41</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-08 21:54:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-08 21:54:31]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[find-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Adventures</title>
+		<link>http://localhost:8888/inhabitent/adventures/</link>
+		<pubDate>Fri, 08 Nov 2019 21:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/?page_id=44</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>44</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-08 21:57:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-08 21:57:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[adventures]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>front-page</title>
+		<link>http://localhost:8888/inhabitent/</link>
+		<pubDate>Fri, 08 Nov 2019 21:57:53 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/?page_id=46</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>46</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-08 21:57:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-08 21:57:53]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[front-page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[front-banner]]></wp:meta_key>
+		<wp:meta_value><![CDATA[152]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_front-banner]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb50f1e7121]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[info@inhabitent.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcc9785a1020]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[banner-logo]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_banner-logo]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcc855325b00]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[front-banner]]></wp:meta_key>
+		<wp:meta_value><![CDATA[152]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_front-banner]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb50f1e7121]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[info@inhabitent.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcc9785a1020]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[banner-logo]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_banner-logo]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcc855325b00]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title></title>
 		<link>http://localhost:8888/inhabitent/?p=83</link>
 		<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
@@ -2129,618 +2878,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1573592916]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>camper-van</title>
-		<link>http://localhost:8888/inhabitent/product/camper-van/camper-van-2/</link>
-		<pubDate>Tue, 12 Nov 2019 23:08:42 +0000</pubDate>
-		<dc:creator><![CDATA[soservin07]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/inhabitent/wp-content/uploads/2019/11/camper-van-1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>110</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-12 23:08:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-12 23:08:42]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[camper-van-2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>104</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/inhabitent/wp-content/uploads/2019/11/camper-van-1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/11/camper-van-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1125;s:4:"file";s:24:"2019/11/camper-van-1.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"camper-van-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"camper-van-1-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"camper-van-1-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:25:"camper-van-1-1600x900.jpg";s:5:"width";i:1600;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[camper-van]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>home-hero</title>
-		<link>http://localhost:8888/inhabitent/front-page/home-hero/</link>
-		<pubDate>Wed, 13 Nov 2019 21:01:23 +0000</pubDate>
-		<dc:creator><![CDATA[soservin07]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/inhabitent/wp-content/uploads/2019/11/home-hero.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>152</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-13 21:01:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-13 21:01:23]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home-hero]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>46</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/inhabitent/wp-content/uploads/2019/11/home-hero.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/11/home-hero.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3600;s:6:"height";i:2404;s:4:"file";s:21:"2019/11/home-hero.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"home-hero-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"home-hero-800x534.jpg";s:5:"width";i:800;s:6:"height";i:534;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:21:"home-hero-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"home-hero-1600x1068.jpg";s:5:"width";i:1600;s:6:"height";i:1068;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[home-hero]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>van-camper</title>
-		<link>http://localhost:8888/inhabitent/van-camping-photo-contest/van-camper-2/</link>
-		<pubDate>Thu, 14 Nov 2019 23:32:45 +0000</pubDate>
-		<dc:creator><![CDATA[soservin07]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/inhabitent/wp-content/uploads/2019/04/van-camper.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>175</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-14 23:32:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-14 23:32:45]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[van-camper-2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>49</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/inhabitent/wp-content/uploads/2019/04/van-camper.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/04/van-camper.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1026;s:4:"file";s:22:"2019/04/van-camper.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:22:"van-camper-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"van-camper-800x547.jpg";s:5:"width";i:800;s:6:"height";i:547;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:22:"van-camper-768x525.jpg";s:5:"width";i:768;s:6:"height";i:525;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[van-camper]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Sample Page</title>
-		<link>http://localhost:8888/inhabitent/sample-page__trashed/</link>
-		<pubDate>Thu, 07 Nov 2019 22:42:35 +0000</pubDate>
-		<dc:creator><![CDATA[soservin07]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/inhabitent/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="http://localhost:8888/inhabitent/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-07 22:42:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-07 22:42:35]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1573171843]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Privacy Policy</title>
-		<link>http://localhost:8888/inhabitent/privacy-policy__trashed/</link>
-		<pubDate>Thu, 07 Nov 2019 22:42:35 +0000</pubDate>
-		<dc:creator><![CDATA[soservin07]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/inhabitent/?page_id=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Our website address is: http://localhost:8888/inhabitent.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What personal data we collect and why we collect it</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Comments</h3><!-- /wp:heading --><!-- wp:paragraph --><p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Media</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Contact forms</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Cookies</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Embedded content from other websites</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Analytics</h3><!-- /wp:heading --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where we send your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Your contact information</h2><!-- /wp:heading --><!-- wp:heading --><h2>Additional information</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>How we protect your data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What data breach procedures we have in place</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What third parties we receive data from</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What automated decision making and/or profiling we do with user data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Industry regulatory disclosure requirements</h3><!-- /wp:heading -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-07 22:42:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-07 22:42:35]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1573171846]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[privacy-policy]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>ABOUT</title>
-		<link>http://localhost:8888/inhabitent/about/</link>
-		<pubDate>Fri, 08 Nov 2019 00:15:46 +0000</pubDate>
-		<dc:creator><![CDATA[soservin07]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/inhabitent/?page_id=7</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:html -->
-<h2>Our Story</h2>
-
-<span>Inhabitent Camping Supply Co.</span> has been <i>Vancouver</i> baked-good icon for more than two whole months! Customers often comment on the bustle of activity they see in store…that’s where the magic happens every day.
-
-We want to bridge the gap between the comfort of city life and the lovely Instagram-worthiness of the great outdoors that surround us. We sell gear that’s fun and functional. So much fun, in fact, that you’ll want to pitch a tent inside your one-bedroom apartment so you can use it everyday.
-
-<h2>Our Team</h2>
-
-Inhabitent Camping Supply Co.’s staff is made up of an amazing team of inspired retail associ-ates. We really know our stuff when it comes to travel hammocks and campfire cooking gadgets. From a provincial park campground to the back-country, our staff knows what you need to outfit your outdoor outing. 
-
-Our shop in nestled away in a lovely little corner of Vancouver. Pop in, say hi, and try out our tents!
-<!-- /wp:html -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>7</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-08 00:15:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-08 00:15:46]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[about]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[11]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>PRODUCTS</title>
-		<link>http://localhost:8888/inhabitent/products/</link>
-		<pubDate>Fri, 08 Nov 2019 00:37:15 +0000</pubDate>
-		<dc:creator><![CDATA[soservin07]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/inhabitent/?page_id=37</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:html -->
-<h2>Shop Stuff</h2>
-<ul>
-<li>DO</li>
-<li>EAT</li>
-<li>SLEEP</li>
-<li>WEAR</li>
-</ul>
-
-<!-- /wp:html -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>37</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-08 00:37:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-08 00:37:15]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[products]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>journal</title>
-		<link>http://localhost:8888/inhabitent/journal/</link>
-		<pubDate>Fri, 08 Nov 2019 00:38:50 +0000</pubDate>
-		<dc:creator><![CDATA[soservin07]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/inhabitent/?page_id=39</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>39</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-08 00:38:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-08 00:38:50]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[journal]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>find-us</title>
-		<link>http://localhost:8888/inhabitent/find-us/</link>
-		<pubDate>Fri, 08 Nov 2019 21:54:31 +0000</pubDate>
-		<dc:creator><![CDATA[soservin07]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/inhabitent/?page_id=41</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:html -->
-<h2>FIND US</h2>
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>MAP HERE</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-<h2>WE TAKE CAMPING VERY SERIOUSLY.</h2>
-Inhabitent Camping Supply Co. knows what it takes to outfit a camping trip right. From flannel shirts to artisanal axes, we’ve got your covered. Please contact us below with any questions comments or suggestions.
-<!-- /wp:html -->
-
-<!-- wp:shortcode -->
-[contact-form-7 id="42" title="Contact form 1"]
-<!-- /wp:shortcode -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>41</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-08 21:54:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-08 21:54:31]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[find-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Adventures</title>
-		<link>http://localhost:8888/inhabitent/adventures/</link>
-		<pubDate>Fri, 08 Nov 2019 21:57:00 +0000</pubDate>
-		<dc:creator><![CDATA[soservin07]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/inhabitent/?page_id=44</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>44</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-08 21:57:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-08 21:57:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[adventures]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title>front-page</title>
-		<link>http://localhost:8888/inhabitent/</link>
-		<pubDate>Fri, 08 Nov 2019 21:57:53 +0000</pubDate>
-		<dc:creator><![CDATA[soservin07]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/inhabitent/?page_id=46</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>46</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-08 21:57:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-08 21:57:53]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[front-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[front-banner]]></wp:meta_key>
-		<wp:meta_value><![CDATA[152]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_front-banner]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5dcb50f1e7121]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[info@inhabitent.com]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5dcc9785a1020]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[banner-logo]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_banner-logo]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5dcc855325b00]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>How To: Eating Healthy Meals in the Wild</title>
-		<link>http://localhost:8888/inhabitent/how-to-eating-healthy-meals-in-the-wild/</link>
-		<pubDate>Sun, 31 Mar 2019 17:40:24 +0000</pubDate>
-		<dc:creator><![CDATA[soservin07]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/inhabitent/?p=53</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Paleo semiotics
-gastropub messenger bag, kogi beard tattooed truffaut cred artisan. Skateboard
-cliche selfies fashion axe, viral ugh vinyl plaid before they sold out squid
-jean shorts tofu letterpress. Kombucha gluten-free banh mi authentic paleo,
-kale chips typewriter kogi normcore mustache cliche before they sold out
-intelligentsia poutine 90’s. Fixie mlkshk put a bird on it messenger bag
-cardigan, gochujang cronut health goth tousled truffaut humblebrag keytar you
-probably haven’t heard of them chillwave. Put a bird on it flexitarian cornhole
-leggings umami. Umami polaroid gentrify distillery tacos flannel green juice.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Truffaut twee master
-cleanse, drinking vinegar poutine +1 letterpress fanny pack. Truffaut
-dreamcatcher church-key 90’s bicycle rights. Actually tumblr fingerstache
-schlitz trust fund keffiyeh. Gastropub pitchfork jean shorts paleo, photo booth
-90’s yr drinking vinegar shoreditch vice iPhone 3 wolf moon neutra craft beer taxidermy.
-Cronut YOLO readymade man bun, trust fund kale chips meggings four loko chia
-blue bottle raw denim wayfarers beard. Authentic freegan waistcoat hoodie.
-Hashtag dreamcatcher pickled, locavore messenger bag banh mi tousled man braid
-ennui.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>53</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-31 17:40:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-31 17:40:24]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[how-to-eating-healthy-meals-in-the-wild]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="food"><![CDATA[Food]]></category>
-		<category domain="post_tag" nicename="healthy"><![CDATA[Healthy]]></category>
-		<category domain="category" nicename="recipes"><![CDATA[Recipes]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019-11-12]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[17]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>5 Tips for Solo Camping</title>
-		<link>http://localhost:8888/inhabitent/5-tips-for-solo-camping/</link>
-		<pubDate>Tue, 19 Mar 2019 18:12:24 +0000</pubDate>
-		<dc:creator><![CDATA[soservin07]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/inhabitent/?p=56</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Wayfarers VHS chambray
-schlitz, ramps semiotics post-ironic franzen fixie wolf polaroid viral. Blue
-bottle scenester paleo bitters, master cleanse put a bird on it PBR&amp;B
-brunch kinfolk echo park pitchfork YOLO. Forage biodiesel polaroid beard,
-scenester normcore actually swag food truck meggings. Readymade cornhole pabst
-gastropub. Roof party put a bird on it quinoa, bicycle rights kickstarter venmo
-master cleanse. Sustainable keffiyeh leggings, farm-to-table cliche banh mi
-drinking vinegar. Crucifix tote bag pork belly, before they sold out artisan
-YOLO listicle kombucha gluten-free vice shoreditch actually swag direct trade.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Venmo XOXO meh hella
-raw denim. Migas listicle photo booth, wayfarers single-origin coffee artisan
-gastropub iPhone echo park. Banjo forage kale chips tilde semiotics echo park
-artisan art party, meditation viral retro pitchfork. Seitan tacos cray
-waistcoat, migas pickled fap try-hard gentrify narwhal pinterest thundercats
-keffiyeh. Keffiyeh hashtag tofu slow-carb, yr pork belly VHS normcore
-typewriter gastropub letterpress echo park. Ugh sriracha messenger bag umami,
-mixtape vice flexitarian forage iPhone synth sustainable banjo. Banh mi
-humblebrag shoreditch, single-origin coffee butcher skateboard farm-to-table
-bicycle rights.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>56</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-19 18:12:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-19 18:12:24]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[5-tips-for-solo-camping]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="how-tos"><![CDATA[How-tos]]></category>
-		<category domain="post_tag" nicename="tenting"><![CDATA[Tenting]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019-11-12]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[18]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Glamping Made Easy</title>
-		<link>http://localhost:8888/inhabitent/glamping-made-easy/</link>
-		<pubDate>Sun, 10 Mar 2019 18:13:48 +0000</pubDate>
-		<dc:creator><![CDATA[soservin07]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/inhabitent/?p=58</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Fashion axe schlitz
-selvage, art party fixie ugh skateboard fap keffiyeh intelligentsia gastropub
-tattooed humblebrag brunch shabby chic. Tilde selvage ennui, ethical sartorial
-keytar gastropub mlkshk. Migas seitan lumbersexual, paleo kogi sriracha photo
-booth hoodie franzen. XOXO fap master cleanse everyday carry, four loko helvetica
-marfa. Tousled health goth normcore, raw denim banh mi bespoke quinoa.
-Readymade keytar iPhone fashion axe, raw denim put a bird on it 3 wolf moon
-plaid fap you probably haven’t heard of them gentrify tumblr kickstarter
-seitan. Stumptown cold-pressed green juice, vinyl roof party mixtape
-gluten-free fashion axe kickstarter kitsch.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Kogi mixtape tousled
-chicharrones art party kinfolk. Synth vinyl tote bag food truck mumblecore roof
-party, fashion axe heirloom wolf twee butcher marfa gentrify keytar neutra.
-Scenester cardigan twee, gochujang butcher ugh blog before they sold out
-chambray sriracha cold-pressed fanny pack kitsch jean shorts. Master cleanse
-man bun flannel, locavore lo-fi hashtag next level wolf thundercats cronut man
-braid helvetica jean shorts listicle. XOXO kogi health goth, jean shorts
-scenester pug waistcoat shabby chic fap polaroid church-key organic brunch
-flexitarian. Yuccie lo-fi hammock VHS, waistcoat hashtag post-ironic gochujang
-helvetica paleo four loko kogi meh cray sartorial. Flexitarian paleo health
-goth freegan blue bottle.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Viral hashtag deep v,
-iPhone street art tacos helvetica semiotics sustainable man braid paleo
-affogato raw denim flexitarian mumblecore. Bicycle rights shabby chic
-humblebrag small batch pop-up. Slow-carb bespoke biodiesel sartorial migas
-fashion axe, mumblecore pop-up tumblr. Gentrify YOLO cray art party occupy,
-readymade wolf mustache. Food truck tacos microdosing poutine, kombucha YOLO
-mumblecore. Freegan typewriter distillery truffaut. Portland slow-carb hammock,
-yuccie cardigan before they sold out organic blog messenger bag tattooed
-church-key biodiesel XOXO tumblr.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>58</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-10 18:13:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-10 18:13:48]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[glamping-made-easy]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="camping"><![CDATA[Camping]]></category>
-		<category domain="category" nicename="how-tos"><![CDATA[How-tos]]></category>
-		<category domain="category" nicename="not-really"><![CDATA[Not-Really]]></category>
-		<category domain="post_tag" nicename="tenting"><![CDATA[Tenting]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019-11-12]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[16]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3090,19 +3227,19 @@ church-key biodiesel XOXO tumblr.</p>
 							</item>
 					<item>
 		<title></title>
-		<link>http://localhost:8888/inhabitent/141/</link>
-		<pubDate>Tue, 12 Nov 2019 23:53:59 +0000</pubDate>
+		<link>http://localhost:8888/inhabitent/178/</link>
+		<pubDate>Fri, 15 Nov 2019 04:06:35 +0000</pubDate>
 		<dc:creator><![CDATA[soservin07]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/inhabitent/?p=141</guid>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>141</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-12 23:53:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-12 23:53:59]]></wp:post_date_gmt>
+		<wp:post_id>178</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-15 04:06:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-15 04:06:35]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[141]]></wp:post_name>
+		<wp:post_name><![CDATA[178]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>2</wp:menu_order>
@@ -3145,19 +3282,19 @@ church-key biodiesel XOXO tumblr.</p>
 							</item>
 					<item>
 		<title></title>
-		<link>http://localhost:8888/inhabitent/142/</link>
-		<pubDate>Tue, 12 Nov 2019 23:53:59 +0000</pubDate>
+		<link>http://localhost:8888/inhabitent/179/</link>
+		<pubDate>Fri, 15 Nov 2019 04:06:35 +0000</pubDate>
 		<dc:creator><![CDATA[soservin07]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/inhabitent/?p=142</guid>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>142</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-12 23:53:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-12 23:53:59]]></wp:post_date_gmt>
+		<wp:post_id>179</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-15 04:06:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-15 04:06:35]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[142]]></wp:post_name>
+		<wp:post_name><![CDATA[179]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>3</wp:menu_order>
@@ -3200,19 +3337,19 @@ church-key biodiesel XOXO tumblr.</p>
 							</item>
 					<item>
 		<title></title>
-		<link>http://localhost:8888/inhabitent/143/</link>
-		<pubDate>Tue, 12 Nov 2019 23:53:59 +0000</pubDate>
+		<link>http://localhost:8888/inhabitent/180/</link>
+		<pubDate>Fri, 15 Nov 2019 04:06:35 +0000</pubDate>
 		<dc:creator><![CDATA[soservin07]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/inhabitent/?p=143</guid>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>143</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-12 23:53:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-12 23:53:59]]></wp:post_date_gmt>
+		<wp:post_id>180</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-15 04:06:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-15 04:06:35]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[143]]></wp:post_name>
+		<wp:post_name><![CDATA[180]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>4</wp:menu_order>
@@ -3251,6 +3388,60 @@ church-key biodiesel XOXO tumblr.</p>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Privacy Policy</title>
+		<link>http://localhost:8888/inhabitent/privacy-policy__trashed/</link>
+		<pubDate>Thu, 07 Nov 2019 22:42:35 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/?page_id=3</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Our website address is: http://localhost:8888/inhabitent.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What personal data we collect and why we collect it</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Comments</h3><!-- /wp:heading --><!-- wp:paragraph --><p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Media</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Contact forms</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Cookies</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Embedded content from other websites</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Analytics</h3><!-- /wp:heading --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where we send your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Your contact information</h2><!-- /wp:heading --><!-- wp:heading --><h2>Additional information</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>How we protect your data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What data breach procedures we have in place</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What third parties we receive data from</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What automated decision making and/or profiling we do with user data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Industry regulatory disclosure requirements</h3><!-- /wp:heading -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-07 22:42:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-07 22:42:35]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-policy__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1573171846]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[privacy-policy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1573171846]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[privacy-policy]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3300,6 +3491,14 @@ stumptown hammock. Fap man braid polaroid pug.</p>
 		<category domain="post_tag" nicename="photography"><![CDATA[photography]]></category>
 		<category domain="post_tag" nicename="vans"><![CDATA[vans]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019-11-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[175]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019-11-12]]></wp:meta_value>
 		</wp:postmeta>
@@ -3364,10 +3563,255 @@ scenester.</p>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[20]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019-11-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[20]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>How To: Eating Healthy Meals in the Wild</title>
+		<link>http://localhost:8888/inhabitent/how-to-eating-healthy-meals-in-the-wild/</link>
+		<pubDate>Sun, 31 Mar 2019 17:40:24 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/?p=53</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Paleo semiotics
+gastropub messenger bag, kogi beard tattooed truffaut cred artisan. Skateboard
+cliche selfies fashion axe, viral ugh vinyl plaid before they sold out squid
+jean shorts tofu letterpress. Kombucha gluten-free banh mi authentic paleo,
+kale chips typewriter kogi normcore mustache cliche before they sold out
+intelligentsia poutine 90’s. Fixie mlkshk put a bird on it messenger bag
+cardigan, gochujang cronut health goth tousled truffaut humblebrag keytar you
+probably haven’t heard of them chillwave. Put a bird on it flexitarian cornhole
+leggings umami. Umami polaroid gentrify distillery tacos flannel green juice.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Truffaut twee master
+cleanse, drinking vinegar poutine +1 letterpress fanny pack. Truffaut
+dreamcatcher church-key 90’s bicycle rights. Actually tumblr fingerstache
+schlitz trust fund keffiyeh. Gastropub pitchfork jean shorts paleo, photo booth
+90’s yr drinking vinegar shoreditch vice iPhone 3 wolf moon neutra craft beer taxidermy.
+Cronut YOLO readymade man bun, trust fund kale chips meggings four loko chia
+blue bottle raw denim wayfarers beard. Authentic freegan waistcoat hoodie.
+Hashtag dreamcatcher pickled, locavore messenger bag banh mi tousled man braid
+ennui.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>53</wp:post_id>
+		<wp:post_date><![CDATA[2019-03-31 17:40:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-03-31 17:40:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[how-to-eating-healthy-meals-in-the-wild]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="food"><![CDATA[Food]]></category>
+		<category domain="post_tag" nicename="healthy"><![CDATA[Healthy]]></category>
+		<category domain="category" nicename="recipes"><![CDATA[Recipes]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019-11-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019-11-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[17]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>5 Tips for Solo Camping</title>
+		<link>http://localhost:8888/inhabitent/5-tips-for-solo-camping/</link>
+		<pubDate>Tue, 19 Mar 2019 18:12:24 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/?p=56</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Wayfarers VHS chambray
+schlitz, ramps semiotics post-ironic franzen fixie wolf polaroid viral. Blue
+bottle scenester paleo bitters, master cleanse put a bird on it PBR&amp;B
+brunch kinfolk echo park pitchfork YOLO. Forage biodiesel polaroid beard,
+scenester normcore actually swag food truck meggings. Readymade cornhole pabst
+gastropub. Roof party put a bird on it quinoa, bicycle rights kickstarter venmo
+master cleanse. Sustainable keffiyeh leggings, farm-to-table cliche banh mi
+drinking vinegar. Crucifix tote bag pork belly, before they sold out artisan
+YOLO listicle kombucha gluten-free vice shoreditch actually swag direct trade.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Venmo XOXO meh hella
+raw denim. Migas listicle photo booth, wayfarers single-origin coffee artisan
+gastropub iPhone echo park. Banjo forage kale chips tilde semiotics echo park
+artisan art party, meditation viral retro pitchfork. Seitan tacos cray
+waistcoat, migas pickled fap try-hard gentrify narwhal pinterest thundercats
+keffiyeh. Keffiyeh hashtag tofu slow-carb, yr pork belly VHS normcore
+typewriter gastropub letterpress echo park. Ugh sriracha messenger bag umami,
+mixtape vice flexitarian forage iPhone synth sustainable banjo. Banh mi
+humblebrag shoreditch, single-origin coffee butcher skateboard farm-to-table
+bicycle rights.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>56</wp:post_id>
+		<wp:post_date><![CDATA[2019-03-19 18:12:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-03-19 18:12:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[5-tips-for-solo-camping]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="how-tos"><![CDATA[How-tos]]></category>
+		<category domain="post_tag" nicename="tenting"><![CDATA[Tenting]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019-11-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019-11-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Glamping Made Easy</title>
+		<link>http://localhost:8888/inhabitent/glamping-made-easy/</link>
+		<pubDate>Sun, 10 Mar 2019 18:13:48 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/?p=58</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Fashion axe schlitz
+selvage, art party fixie ugh skateboard fap keffiyeh intelligentsia gastropub
+tattooed humblebrag brunch shabby chic. Tilde selvage ennui, ethical sartorial
+keytar gastropub mlkshk. Migas seitan lumbersexual, paleo kogi sriracha photo
+booth hoodie franzen. XOXO fap master cleanse everyday carry, four loko helvetica
+marfa. Tousled health goth normcore, raw denim banh mi bespoke quinoa.
+Readymade keytar iPhone fashion axe, raw denim put a bird on it 3 wolf moon
+plaid fap you probably haven’t heard of them gentrify tumblr kickstarter
+seitan. Stumptown cold-pressed green juice, vinyl roof party mixtape
+gluten-free fashion axe kickstarter kitsch.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Kogi mixtape tousled
+chicharrones art party kinfolk. Synth vinyl tote bag food truck mumblecore roof
+party, fashion axe heirloom wolf twee butcher marfa gentrify keytar neutra.
+Scenester cardigan twee, gochujang butcher ugh blog before they sold out
+chambray sriracha cold-pressed fanny pack kitsch jean shorts. Master cleanse
+man bun flannel, locavore lo-fi hashtag next level wolf thundercats cronut man
+braid helvetica jean shorts listicle. XOXO kogi health goth, jean shorts
+scenester pug waistcoat shabby chic fap polaroid church-key organic brunch
+flexitarian. Yuccie lo-fi hammock VHS, waistcoat hashtag post-ironic gochujang
+helvetica paleo four loko kogi meh cray sartorial. Flexitarian paleo health
+goth freegan blue bottle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Viral hashtag deep v,
+iPhone street art tacos helvetica semiotics sustainable man braid paleo
+affogato raw denim flexitarian mumblecore. Bicycle rights shabby chic
+humblebrag small batch pop-up. Slow-carb bespoke biodiesel sartorial migas
+fashion axe, mumblecore pop-up tumblr. Gentrify YOLO cray art party occupy,
+readymade wolf mustache. Food truck tacos microdosing poutine, kombucha YOLO
+mumblecore. Freegan typewriter distillery truffaut. Portland slow-carb hammock,
+yuccie cardigan before they sold out organic blog messenger bag tattooed
+church-key biodiesel XOXO tumblr.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>58</wp:post_id>
+		<wp:post_date><![CDATA[2019-03-10 18:13:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-03-10 18:13:48]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[glamping-made-easy]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="camping"><![CDATA[Camping]]></category>
+		<category domain="category" nicename="how-tos"><![CDATA[How-tos]]></category>
+		<category domain="category" nicename="not-really"><![CDATA[Not-Really]]></category>
+		<category domain="post_tag" nicename="tenting"><![CDATA[Tenting]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019-11-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[16]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019-11-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[16]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>Getting Back to Nature in a Canoe</title>
-		<link>http://localhost:8888/inhabitent/getting-back-to-nature-in-a-canoe/</link>
+		<link>http://localhost:8888/inhabitent/getting-back-to-nature-in-a-canoe__trashed/</link>
 		<pubDate>Tue, 12 Nov 2019 18:27:35 +0000</pubDate>
 		<dc:creator><![CDATA[soservin07]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/inhabitent/?p=60</guid>
@@ -3410,8 +3854,8 @@ small batch etsy readymade, post-ironic pug viral.</p>
 		<wp:post_date_gmt><![CDATA[2019-11-12 18:27:35]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[getting-back-to-nature-in-a-canoe]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[getting-back-to-nature-in-a-canoe__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
@@ -3423,10 +3867,26 @@ small batch etsy readymade, post-ironic pug viral.</p>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[13]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[13]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1573798110]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[getting-back-to-nature-in-a-canoe]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>A Night with Friends at the Beach</title>
-		<link>http://localhost:8888/inhabitent/a-night-with-friends-at-the-beach/</link>
+		<link>http://localhost:8888/inhabitent/a-night-with-friends-at-the-beach__trashed/</link>
 		<pubDate>Tue, 12 Nov 2019 18:38:55 +0000</pubDate>
 		<dc:creator><![CDATA[soservin07]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/inhabitent/?p=63</guid>
@@ -3471,8 +3931,8 @@ vice wolf squid gastropub blog franzen swag.</p>
 		<wp:post_date_gmt><![CDATA[2019-11-12 18:38:55]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[a-night-with-friends-at-the-beach]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[a-night-with-friends-at-the-beach__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
@@ -3488,10 +3948,30 @@ vice wolf squid gastropub blog franzen swag.</p>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[12]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1573798110]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a-night-with-friends-at-the-beach]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>Taking in the View at Big Mountain</title>
-		<link>http://localhost:8888/inhabitent/taking-in-the-view-at-big-mountain/</link>
+		<link>http://localhost:8888/inhabitent/taking-in-the-view-at-big-mountain__trashed/</link>
 		<pubDate>Tue, 12 Nov 2019 20:55:53 +0000</pubDate>
 		<dc:creator><![CDATA[soservin07]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/inhabitent/?p=72</guid>
@@ -3538,8 +4018,8 @@ knausgaard portland.</p>
 		<wp:post_date_gmt><![CDATA[2019-11-12 20:55:53]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[taking-in-the-view-at-big-mountain]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[taking-in-the-view-at-big-mountain__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
@@ -3551,10 +4031,26 @@ knausgaard portland.</p>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[14]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1573798110]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taking-in-the-view-at-big-mountain]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>Star-Gazing at the Night Sky</title>
-		<link>http://localhost:8888/inhabitent/star-gazing-at-the-night-sky/</link>
+		<link>http://localhost:8888/inhabitent/star-gazing-at-the-night-sky__trashed/</link>
 		<pubDate>Tue, 12 Nov 2019 20:56:14 +0000</pubDate>
 		<dc:creator><![CDATA[soservin07]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/inhabitent/?p=73</guid>
@@ -3597,17 +4093,34 @@ truck, hashtag cardigan poutine hoodie slow-carb fanny pack flexitarian.</p>
 		<wp:post_date_gmt><![CDATA[2019-11-12 20:56:14]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[star-gazing-at-the-night-sky]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[star-gazing-at-the-night-sky__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+										<category domain="post_tag" nicename="adventure"><![CDATA[Adventure]]></category>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[15]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[15]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1573798110]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[star-gazing-at-the-night-sky]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3641,6 +4154,46 @@ retro. Actually readymade keytar mumblecore direct trade, twee kombucha iPhone.<
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[test]]></wp:meta_key>
+		<wp:meta_value><![CDATA[155]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_test]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb23d82e62f]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[test-image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_test-image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb24802e630]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[test-text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[TENT for SALE!!!]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_test-text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb24a42e631]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1573599144]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[beach-tent]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -3723,6 +4276,26 @@ retro. Actually readymade keytar mumblecore direct trade, twee kombucha iPhone.<
 		<wp:meta_key><![CDATA[_]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1.55]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>Camper Van</title>
@@ -3747,6 +4320,26 @@ retro. Actually readymade keytar mumblecore direct trade, twee kombucha iPhone.<
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="product-type" nicename="sleep"><![CDATA[Sleep]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[110]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -3809,6 +4402,26 @@ retro. Actually readymade keytar mumblecore direct trade, twee kombucha iPhone.<
 		<wp:meta_key><![CDATA[_]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[23]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[19]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>Film Camera</title>
@@ -3833,6 +4446,26 @@ retro. Actually readymade keytar mumblecore direct trade, twee kombucha iPhone.<
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="product-type" nicename="do"><![CDATA[Do]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[24]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150.00]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -3895,6 +4528,26 @@ retro. Actually readymade keytar mumblecore direct trade, twee kombucha iPhone.<
 		<wp:meta_key><![CDATA[_]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[25]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>Gas Stove</title>
@@ -3919,6 +4572,26 @@ retro. Actually readymade keytar mumblecore direct trade, twee kombucha iPhone.<
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="product-type" nicename="eat"><![CDATA[Eat]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[120]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -3981,6 +4654,26 @@ retro. Actually readymade keytar mumblecore direct trade, twee kombucha iPhone.<
 		<wp:meta_key><![CDATA[_]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[27]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>Hiking Boots</title>
@@ -4005,6 +4698,26 @@ retro. Actually readymade keytar mumblecore direct trade, twee kombucha iPhone.<
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="product-type" nicename="wear"><![CDATA[Wear]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[135]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -4067,169 +4780,17 @@ retro. Actually readymade keytar mumblecore direct trade, twee kombucha iPhone.<
 		<wp:meta_key><![CDATA[_]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title>Leather Satchel</title>
-		<link>http://localhost:8888/inhabitent/product/leather-satchel/</link>
-		<pubDate>Tue, 12 Nov 2019 23:16:26 +0000</pubDate>
-		<dc:creator><![CDATA[soservin07]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/inhabitent/?post_type=product&#038;p=126</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p class="BodyA" style="line-height: 120%;"><span lang="EN-US">Gastropub forage irony, hashtag affogato ennui kogi. Forage four loko iPhone, raw denim pop-up taxidermy etsy gluten-free +1 bespoke paleo semiotics. Narwhal salvia ennui, echo park flexitarian tousled ethical twee. Listicle fanny pack bicycle rights drinking vinegar, bitters readymade hella jean shorts cray four dollar toast. Pug trust fund chambray brunch irony chartreuse. Cliche intelligentsia brooklyn retro. Actually readymade keytar mumblecore direct trade, twee kombucha iPhone.</span></p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>126</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-12 23:16:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-12 23:16:26]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[leather-satchel]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product-type" nicename="wear"><![CDATA[Wear]]></category>
-						<wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		<wp:meta_value><![CDATA[29]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[60]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Nylon Tents</title>
-		<link>http://localhost:8888/inhabitent/product/nylon-tents/</link>
-		<pubDate>Tue, 12 Nov 2019 23:17:25 +0000</pubDate>
-		<dc:creator><![CDATA[soservin07]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/inhabitent/?post_type=product&#038;p=128</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p class="BodyA" style="line-height: 120%;"><span lang="EN-US">Gastropub forage irony, hashtag affogato ennui kogi. Forage four loko iPhone, raw denim pop-up taxidermy etsy gluten-free +1 bespoke paleo semiotics. Narwhal salvia ennui, echo park flexitarian tousled ethical twee. Listicle fanny pack bicycle rights drinking vinegar, bitters readymade hella jean shorts cray four dollar toast. Pug trust fund chambray brunch irony chartreuse. Cliche intelligentsia brooklyn retro. Actually readymade keytar mumblecore direct trade, twee kombucha iPhone.</span></p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>128</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-12 23:17:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-12 23:17:25]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[nylon-tents]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product-type" nicename="sleep"><![CDATA[Sleep]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[31]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[220]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Rustic Tools</title>
-		<link>http://localhost:8888/inhabitent/product/rustic-tools/</link>
-		<pubDate>Tue, 12 Nov 2019 23:18:17 +0000</pubDate>
-		<dc:creator><![CDATA[soservin07]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/inhabitent/?post_type=product&#038;p=130</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p class="BodyA" style="line-height: 120%;"><span lang="EN-US">Gastropub forage irony, hashtag affogato ennui kogi. Forage four loko iPhone, raw denim pop-up taxidermy etsy gluten-free +1 bespoke paleo semiotics. Narwhal salvia ennui, echo park flexitarian tousled ethical twee. Listicle fanny pack bicycle rights drinking vinegar, bitters readymade hella jean shorts cray four dollar toast. Pug trust fund chambray brunch irony chartreuse. Cliche intelligentsia brooklyn retro. Actually readymade keytar mumblecore direct trade, twee kombucha iPhone.</span></p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>130</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-12 23:18:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-12 23:18:17]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[rustic-tools]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product-type" nicename="do"><![CDATA[Do]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[32]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[100]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Stew Can</title>
-		<link>http://localhost:8888/inhabitent/product/stew-can/</link>
-		<pubDate>Tue, 12 Nov 2019 23:19:19 +0000</pubDate>
-		<dc:creator><![CDATA[soservin07]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/inhabitent/?post_type=product&#038;p=132</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p class="BodyA" style="line-height: 120%;"><span lang="EN-US">Gastropub forage irony, hashtag affogato ennui kogi. Forage four loko iPhone, raw denim pop-up taxidermy etsy gluten-free +1 bespoke paleo semiotics. Narwhal salvia ennui, echo park flexitarian tousled ethical twee. Listicle fanny pack bicycle rights drinking vinegar, bitters readymade hella jean shorts cray four dollar toast. Pug trust fund chambray brunch irony chartreuse. Cliche intelligentsia brooklyn retro. Actually readymade keytar mumblecore direct trade, twee kombucha iPhone.</span></p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>132</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-12 23:19:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-12 23:19:19]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[stew-can]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product-type" nicename="eat"><![CDATA[Eat]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[33]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[22]]></wp:meta_value>
+		<wp:meta_value><![CDATA[42]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
@@ -4356,6 +4917,53 @@ This e-mail was sent from a contact form on RED-Inhabitent (http://localhost:888
 		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
 		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<label> Your Name (required)
+    [text* your-name] </label>
+
+<label> Your Email (required)
+    [email* your-email] </label>
+
+<label> Subject
+    [text your-subject] </label>
+
+<label> Your Message
+    [textarea your-message] </label>
+
+[submit "Send"]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:31:"RED-Inhabitent "[your-subject]"";s:6:"sender";s:35:"RED-Inhabitent <soservin@ymail.com>";s:4:"body";s:185:"From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on RED-Inhabitent (http://localhost:8888/inhabitent)";s:9:"recipient";s:18:"soservin@ymail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:31:"RED-Inhabitent "[your-subject]"";s:6:"sender";s:35:"RED-Inhabitent <soservin@ymail.com>";s:4:"body";s:127:"Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on RED-Inhabitent (http://localhost:8888/inhabitent)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:28:"Reply-To: soservin@ymail.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:8:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>test custom product 1</title>
@@ -4381,6 +4989,18 @@ This e-mail was sent from a contact form on RED-Inhabitent (http://localhost:888
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1573599157]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[test-custom-product-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
 		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
 		</wp:postmeta>
@@ -4432,6 +5052,274 @@ This e-mail was sent from a contact form on RED-Inhabitent (http://localhost:888
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[test-custom-product-2]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1573599153]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[test-custom-product-2]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Leather Satchel</title>
+		<link>http://localhost:8888/inhabitent/product/leather-satchel/</link>
+		<pubDate>Tue, 12 Nov 2019 23:16:26 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/?post_type=product&#038;p=126</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p class="BodyA" style="line-height: 120%;"><span lang="EN-US">Gastropub forage irony, hashtag affogato ennui kogi. Forage four loko iPhone, raw denim pop-up taxidermy etsy gluten-free +1 bespoke paleo semiotics. Narwhal salvia ennui, echo park flexitarian tousled ethical twee. Listicle fanny pack bicycle rights drinking vinegar, bitters readymade hella jean shorts cray four dollar toast. Pug trust fund chambray brunch irony chartreuse. Cliche intelligentsia brooklyn retro. Actually readymade keytar mumblecore direct trade, twee kombucha iPhone.</span></p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>126</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-12 23:16:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-12 23:16:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[leather-satchel]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="product-type" nicename="wear"><![CDATA[Wear]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Nylon Tents</title>
+		<link>http://localhost:8888/inhabitent/product/nylon-tents/</link>
+		<pubDate>Tue, 12 Nov 2019 23:17:25 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/?post_type=product&#038;p=128</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p class="BodyA" style="line-height: 120%;"><span lang="EN-US">Gastropub forage irony, hashtag affogato ennui kogi. Forage four loko iPhone, raw denim pop-up taxidermy etsy gluten-free +1 bespoke paleo semiotics. Narwhal salvia ennui, echo park flexitarian tousled ethical twee. Listicle fanny pack bicycle rights drinking vinegar, bitters readymade hella jean shorts cray four dollar toast. Pug trust fund chambray brunch irony chartreuse. Cliche intelligentsia brooklyn retro. Actually readymade keytar mumblecore direct trade, twee kombucha iPhone.</span></p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>128</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-12 23:17:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-12 23:17:25]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[nylon-tents]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="product-type" nicename="sleep"><![CDATA[Sleep]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[220]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[220]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Rustic Tools</title>
+		<link>http://localhost:8888/inhabitent/product/rustic-tools/</link>
+		<pubDate>Tue, 12 Nov 2019 23:18:17 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/?post_type=product&#038;p=130</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p class="BodyA" style="line-height: 120%;"><span lang="EN-US">Gastropub forage irony, hashtag affogato ennui kogi. Forage four loko iPhone, raw denim pop-up taxidermy etsy gluten-free +1 bespoke paleo semiotics. Narwhal salvia ennui, echo park flexitarian tousled ethical twee. Listicle fanny pack bicycle rights drinking vinegar, bitters readymade hella jean shorts cray four dollar toast. Pug trust fund chambray brunch irony chartreuse. Cliche intelligentsia brooklyn retro. Actually readymade keytar mumblecore direct trade, twee kombucha iPhone.</span></p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>130</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-12 23:18:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-12 23:18:17]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[rustic-tools]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="product-type" nicename="do"><![CDATA[Do]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[100]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[100]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Stew Can</title>
+		<link>http://localhost:8888/inhabitent/product/stew-can/</link>
+		<pubDate>Tue, 12 Nov 2019 23:19:19 +0000</pubDate>
+		<dc:creator><![CDATA[soservin07]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/inhabitent/?post_type=product&#038;p=132</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p class="BodyA" style="line-height: 120%;"><span lang="EN-US">Gastropub forage irony, hashtag affogato ennui kogi. Forage four loko iPhone, raw denim pop-up taxidermy etsy gluten-free +1 bespoke paleo semiotics. Narwhal salvia ennui, echo park flexitarian tousled ethical twee. Listicle fanny pack bicycle rights drinking vinegar, bitters readymade hella jean shorts cray four dollar toast. Pug trust fund chambray brunch irony chartreuse. Cliche intelligentsia brooklyn retro. Actually readymade keytar mumblecore direct trade, twee kombucha iPhone.</span></p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>132</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-12 23:19:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-12 23:19:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[stew-can]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="product-type" nicename="eat"><![CDATA[Eat]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[33]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[22]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[33]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[22]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>Travel Hammock</title>
@@ -4456,6 +5344,26 @@ This e-mail was sent from a contact form on RED-Inhabitent (http://localhost:888
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="product-type" nicename="sleep"><![CDATA[Sleep]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[75]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -4518,6 +5426,26 @@ This e-mail was sent from a contact form on RED-Inhabitent (http://localhost:888
 		<wp:meta_key><![CDATA[_]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[35]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[400]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>Wood Ax</title>
@@ -4542,6 +5470,26 @@ This e-mail was sent from a contact form on RED-Inhabitent (http://localhost:888
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="product-type" nicename="do"><![CDATA[Do]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[36]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[40]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb392929d7a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dcb397729d7b]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>

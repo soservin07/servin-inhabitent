@@ -45,21 +45,8 @@
 				$img2 = get_template_directory_uri() . '/res/logos/inhabitent-logo-full.svg';
 				?>
 
-				<!-- <button class="search-link">
-					<i class="fa fa-search"></i>
-				</button> -->
 			</nav><!-- #site-navigation -->
-			<div class="head-pic" style='background: linear-gradient(
-										to bottom,
-										rgba(0, 0, 0, 0.3),
-										0,
-										rgba(0, 0, 0, 0.2)
-										),
-										url("<?php echo $img2; ?>"),url("<?php echo $img['url']; ?>");
-										background-repeat:no-repeat;
-										background-size:100vmax,15vmax;
-										background-position:left top ,center'>
-			</div>
+			
 		</header> <!-- #masthead -->
 
 		<div id="content" class="site-content">

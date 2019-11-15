@@ -482,15 +482,16 @@ big {
 }
 
 .shop-stuff {
-  width: 100%;
+  width: 80%;
   height: auto;
   position: relative;
   padding: 2% 0;
+  margin: 0 auto;
 }
 .shop-stuff h2 {
   text-align: center;
   font-weight: 300;
-  font-size: 4vmax;
+  font-size: 2vmax;
   margin-bottom: 5%;
 }
 .shop-stuff div {
@@ -543,6 +544,73 @@ big {
 }
 .shop-stuff div .shop-list a {
   text-decoration: none;
+}
+
+/*************END for SHOP STUFF
+**************START of CODING for JOURNAL SECTION
+*/
+.inhabitent-journal {
+  width: 80%;
+  height: auto;
+  margin: 0 auto 5% auto;
+}
+.inhabitent-journal h2 {
+  text-align: center;
+  font-weight: 300;
+  font-size: 2vmax;
+  margin-bottom: 5%;
+}
+.inhabitent-journal ul {
+  display: flex;
+  flex-flow: row nowrap;
+  width: 100%;
+}
+.inhabitent-journal ul li {
+  border: 1px solid #e1e1e1;
+  position: relative;
+  list-style-type: none;
+  padding-bottom: 3%;
+  margin: 0 1%;
+  flex: 1 0 25%;
+}
+.inhabitent-journal ul li nav {
+  width: 100%;
+  position: relative;
+  background: #e1e1e1;
+  padding-bottom: 1px;
+}
+.inhabitent-journal ul li nav img {
+  object-fit: cover;
+  width: 100%;
+  height: 50%;
+}
+.inhabitent-journal ul li p {
+  padding-left: 2%;
+  margin: 0;
+}
+.inhabitent-journal ul li h2 {
+  padding-left: 2%;
+  text-align: left;
+  font-size: 1.5vmax;
+  word-wrap: break-word;
+}
+.inhabitent-journal ul li h2 a {
+  text-decoration: none;
+  text-decoration-color: #248a83;
+  color: #248a83;
+}
+.inhabitent-journal ul li .read-entry {
+  padding: 3%;
+  border: 1px solid black;
+  text-decoration: none;
+  text-decoration-color: black;
+  color: black;
+  margin-left: 2%;
+}
+.inhabitent-journal ul li .read-entry:hover {
+  background: #248a83;
+  color: white;
+  cursor: pointer;
 }
 
 .site-content {

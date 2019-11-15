@@ -14,8 +14,7 @@ $arrays = new WP_Term_Query($args);
 // $taxs = get_terms(array('taxonomy' => 'product-type'));
 // var_dump($arrays);
 $imgPath = '';
-
-get_header();
+ get_template_part( 'template-parts/header', 'front' ); 
 ?>
 <div id="primary" class="content-area">
 	<main id="main" class="site-main" role="main">
@@ -46,54 +45,80 @@ get_header();
 				</ul>
 			</div>
 		</section>
-		<!--END CODING for shop stuff-->
+		<!--END CODING for shop stuff
+		*************START for CODING JOURNAL SECTION***************
+		-->
 		<?php
 		$args = array(
 			'post_type' => 'post',
-			'posts_per_page' => '10',
-			'order' => 'DESC'
+			'posts_per_page' => '3',
+			'orderby' => array('title'=>'DESC')
 		);
 		$journal_posts = new WP_Query($args);
 		?>
 		<section class="inhabitent-journal">
 			<h2>INHABITENT JOURNAL</h2>
-			<div>
 				<?php
 
 				if ($journal_posts->have_posts()) {
-					echo '<ul>';
+					$query='<ul>';
 					while ($journal_posts->have_posts()) {
 						$journal_posts->the_post();
-						the_post_thumbnail('medium');
-						echo '<h2>' . get_the_title() . '</h2>';
-						echo get_comments_number() . " comments";
+						$query.='<li>';
+						$query.='<nav>'.get_the_post_thumbnail($journal_posts->post_id,'medium').'</nav>';
+						$query.='<p>'. get_the_date('d F Y').' / '. get_comments_number() .' Comments</p>';
+						$query.= '<h2><a href="'.get_the_permalink().'">' . get_the_title() . '</a></h2>';
+						$query.='<a href="'.get_the_permalink().'" class="read-entry">READ ENTRY</a>';
+						$query.='</li>';
 					}
+					$query.='</ul>';
+					echo $query;
 				}
 
-				// if ($arrays->have_posts()) {
-				// 	foreach ($arrays->have_posts() as $x) {
-				// 		$x->the_post();
-				// 		the_title();
-				// 	}
-				// while ($arrays->have_posts()) {
-				// 	$arrays->the_post();
-				// 	the_title();
-				// 	the_date();
-				// 	the_permalink();
-				// }
-				// }
-				// the_post_navigation();
-				// wp_reset_postdata();
+				wp_reset_postdata();
 				?>
-				<pre>
-<?php
-// print_r($arrays); 
-?>
-</pre>
-
-			</div>
 		</section>
+<!--END CODING for Journal
+		*************START CODING for Latest ADVENTURES***************
+		-->
+		<?php
+		$args = array(
+			'post_type'=>'adventures',
+			'posts_per_page' => '4',
+			'orderby' => array('publish_date'=>'DESC')
+		);
+		$journal_posts = new WP_Query($args);
+		?>
+		<section class="latest-adv">
+			<h2>LATEST ADVENTURES</h2>
+			<pre>
+				<?php
+				print_r($journal_posts);
+				?>
+			</pre>
+			<?php
+				if ($journal_posts->have_posts()) {
+					$query='<ul>';
+					while ($journal_posts->have_posts()) {
+						$journal_posts->the_post();
+						$query.='<li>';
+							
+						$query.='</li>';
+					}
+					$query.='</ul>';
+					echo $query;
+				}
 
+				wp_reset_postdata();
+			?>
+				<!-- <li>
+					<h2>
+						<a href=""></a>
+					</h2>
+					<a href=""></a>
+				</li>
+			<a href=""></a> -->
+		</section>
 
 	</main><!-- #main -->
 </div><!-- #primary -->

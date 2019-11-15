@@ -47,7 +47,7 @@ function post_products()
         'labels'                => $labels,
         'supports'              => array('title', 'editor', 'thumbnail', 'revisions', 'custom-fields', 'post-formats'),
         // 'taxonomies'            => array('category', 'products_type'),
-        'hierarchical'          => false,
+        'hierarchical'          => true,
         'public'                => true,
         'show_ui'               => true,
         'show_in_menu'          => true,

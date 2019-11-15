@@ -93,14 +93,15 @@
       align-items: flex-end;
       justify-content: flex-end;
       position: relative;
-      color:white;
+      color: white;
       .search-field {
         display: none;
-        
+
         background: transparent;
-        color:white;
-        border:0;
-        &:before , &:after{
+        color: white;
+        border: 0;
+        &:before,
+        &:after {
           transition: 0.5s linear;
         }
       }
@@ -117,13 +118,15 @@
         display: flex;
         flex-flow: row nowrap;
         align-items: center;
-        &:before , &:after{
+        &:before,
+        &:after {
           transition: 0.5s linear;
         }
         li {
           padding: 0 1%;
           flex: 1 0 auto;
-          &:before , &:after{
+          &:before,
+          &:after {
             transition: 0.5s linear;
           }
           &:nth-child(1) {
@@ -161,71 +164,135 @@
 }
 //*************END OF HEADER
 //********* start for contents
+//**CODING for SHOP STUFF
+.shop-stuff {
+  width: 100%;
+  height: auto;
+  position: relative;
+  padding: 2% 0;
+  h2 {
+    text-align: center;
+    font-weight: 300;
+    font-size: 4vmax;
+    margin-bottom: 5%;
+  }
+  div {
+    width: 100%;
+    position: relative;
+    .shop-list {
+      margin: 0 auto;
+      display: flex;
+      flex-flow: row wrap;
+      li {
+        flex: 1 0 20%;
+        list-style-type: none;
+        border: 1px solid #e1e1e1;
+        border-top-width: 5px;
+        position: relative;
+        box-sizing: border-box;
+        height: auto;
+        padding: 0;
+        margin: 0 1%;
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: center;
+        align-content: center;
+        text-align: center;
+        padding: 2% 0 3% 0;
+        p {
+          margin: 0 0 5% 0;
+          padding: 0 5%;
+        }
+        &:hover {
+          border-color: #d99054;
+          cursor: pointer;
+        }
+        img {
+          height: auto;
+          width: 8vmax;
+          margin: 5% auto;
+        }
+        a {
+          p {
+            font-size: 1.8vmax;
+            background-color: #248a83;
+            color: white;
+            margin: 0 auto;
+            padding: 5% 0;
+            width: 60%;
+            text-transform: uppercase;
+          }
+        }
+      }
+      a {
+        text-decoration: none;
+      }
+    }
+  }
+}
 .site-content {
   width: 100%;
   height: auto;
 }
 //***********END of CONTENTS
 //***************Start of FOOTER
-.site-footer{
-  width:100%;
-  background-image:url('res/logos/dark-wood@2x.png');
+.site-footer {
+  width: 100%;
+  background-image: url('res/logos/dark-wood@2x.png');
   background-repeat: no-repeat;
   background-size: cover;
   padding: 2% 0;
-  p{
-    width:100%;
+  p {
+    width: 100%;
     text-align: center;
-    color:white;
+    color: white;
   }
-  .site-info{
-    width:80%;
-    display:grid;
-    margin:0 auto;
-    grid-template-columns:1fr 1fr 1fr;
-    color:white;
-    .contact-info{
-      li{
-        padding:0.5% 0;
+  .site-info {
+    width: 80%;
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: 1fr 1fr 1fr;
+    color: white;
+    .contact-info {
+      li {
+        padding: 0.5% 0;
         list-style-type: none;
-        &:nth-child(1){
-          color:#d99054;
+        &:nth-child(1) {
+          color: #d99054;
           font-weight: bold;
           font-size: 1.5vmax;
         }
-        i{
-          color:white;
-          font-size:2vmax;
-          padding:0 1%;
-          &:hover{
+        i {
+          color: white;
+          font-size: 2vmax;
+          padding: 0 1%;
+          &:hover {
             cursor: pointer;
           }
         }
       }
     }
-    .business-hour{
-      li{
-        padding:0.5% 0;
+    .business-hour {
+      li {
+        padding: 0.5% 0;
         list-style-type: none;
-        &:nth-child(1){
-          color:#d99054;
+        &:nth-child(1) {
+          color: #d99054;
           font-weight: bold;
           font-size: 1.5vmax;
         }
-        strong{
+        strong {
           font-weight: bold;
         }
-        
       }
     }
-    img{
-      color:white;
+    img {
+      color: white;
       text-decoration-color: white;
-      margin:auto;
-      &:hover{
+      margin: auto;
+      &:hover {
         cursor: pointer;
       }
     }
   }
-  
 }

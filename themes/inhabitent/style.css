@@ -481,6 +481,70 @@ big {
   z-index: 1;
 }
 
+.shop-stuff {
+  width: 100%;
+  height: auto;
+  position: relative;
+  padding: 2% 0;
+}
+.shop-stuff h2 {
+  text-align: center;
+  font-weight: 300;
+  font-size: 4vmax;
+  margin-bottom: 5%;
+}
+.shop-stuff div {
+  width: 100%;
+  position: relative;
+}
+.shop-stuff div .shop-list {
+  margin: 0 auto;
+  display: flex;
+  flex-flow: row wrap;
+}
+.shop-stuff div .shop-list li {
+  flex: 1 0 20%;
+  list-style-type: none;
+  border: 1px solid #e1e1e1;
+  border-top-width: 5px;
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 0;
+  margin: 0 1%;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  padding: 2% 0 3% 0;
+}
+.shop-stuff div .shop-list li p {
+  margin: 0 0 5% 0;
+  padding: 0 5%;
+}
+.shop-stuff div .shop-list li:hover {
+  border-color: #d99054;
+  cursor: pointer;
+}
+.shop-stuff div .shop-list li img {
+  height: auto;
+  width: 8vmax;
+  margin: 5% auto;
+}
+.shop-stuff div .shop-list li a p {
+  font-size: 1.8vmax;
+  background-color: #248a83;
+  color: white;
+  margin: 0 auto;
+  padding: 5% 0;
+  width: 60%;
+  text-transform: uppercase;
+}
+.shop-stuff div .shop-list a {
+  text-decoration: none;
+}
+
 .site-content {
   width: 100%;
   height: auto;

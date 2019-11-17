@@ -49,17 +49,25 @@
 					<i class="fa fa-search"></i>
 				</button> -->
 			</nav><!-- #site-navigation -->
+			<?php
+				$tmpDisplay='block';
+				if(is_single()){
+					$tmpDisplay='none';
+				}
+			?>
 			<div class="head-pic" style='background: linear-gradient(
-										to bottom,
-										rgba(0, 0, 0, 0.3),
-										0,
-										rgba(0, 0, 0, 0.2)
-										),
-										url("<?php echo $img2; ?>"),url("<?php echo $img['url']; ?>");
-										background-repeat:no-repeat;
-										background-size:100vmax,15vmax;
-										background-position:left top ,center'>
-			</div>
+						to bottom,
+						rgba(0, 0, 0, 0.3),
+						0,
+						rgba(0, 0, 0, 0.2)
+						),
+						url("<?php echo $img2;?>"),url(" <?php echo $img['url'];?> ");
+						background-repeat:no-repeat;
+						background-size:100vmax,15vmax;
+						background-position:left top ,center;
+						display:<?php echo $tmpDisplay; ?>'>
+						</div>
+			
 		</header> <!-- #masthead -->
 
 		<div id="content" class="site-content">

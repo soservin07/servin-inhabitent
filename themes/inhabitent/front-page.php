@@ -5,7 +5,7 @@
  *
  * @package RED_Starter_Theme
  */
-$query = 'select distinct a.slug from wp_terms as a inner join wp_term_taxonomy as b where a.term_id=b.term_taxonomy_id order by ASC';
+/**************************************START CODING for geting SHOP STUFF-TAXONOMIES****/
 $args = array(
 	'taxonomy' => 'product-type',
 	'order' => 'ASC',
@@ -19,7 +19,7 @@ $imgPath = '';
 <div id="primary" class="content-area">
 	<main id="main" class="site-main" role="main">
 		<section class="shop-stuff">
-			<!--START CODING for geting SHOP STUFF-TAXONOMIES****-->
+			
 			<h2> SHOP STUFF</h2>
 			<div>
 				<ul class="shop-list">
@@ -85,39 +85,34 @@ $imgPath = '';
 		$args = array(
 			'post_type'=>'adventures',
 			'posts_per_page' => '4',
-			'orderby' => array('publish_date'=>'DESC')
+			'orderby' => array('publish_date'=>'ASC')
 		);
 		$journal_posts = new WP_Query($args);
 		?>
 		<section class="latest-adv">
 			<h2>LATEST ADVENTURES</h2>
-			<pre>
-				<?php
-				print_r($journal_posts);
-				?>
-			</pre>
 			<?php
 				if ($journal_posts->have_posts()) {
 					$query='<ul>';
 					while ($journal_posts->have_posts()) {
 						$journal_posts->the_post();
-						$query.='<li>';
+						$query.='<li>
+								'. get_the_post_thumbnail($journal_posts->post_id,'medium').'
+								<h2>
+								<a href="'.get_the_permalink().'">'.get_the_title().'</a>
+								</h2>
+								<a href="'.get_the_permalink().'">READ MORE</a>';
 							
 						$query.='</li>';
 					}
 					$query.='</ul>';
+					$query.='<a href="'.get_post_type_archive_link('adventures').'" class="more-adv">MORE ADVENTURES</a>';
+					
 					echo $query;
 				}
-
+				
 				wp_reset_postdata();
 			?>
-				<!-- <li>
-					<h2>
-						<a href=""></a>
-					</h2>
-					<a href=""></a>
-				</li>
-			<a href=""></a> -->
 		</section>
 
 	</main><!-- #main -->

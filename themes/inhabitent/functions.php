@@ -119,10 +119,18 @@ register_nav_menus(
 		'mobile-menu' => 'Mobile Menu Location',
 	)
 );
+
 function add_last_nav_item($items)
 {
+	$tempDir=get_template_directory_uri() . '/res/logos/tent-dark.svg';
+	if(is_single()){
+		$tempDir=get_template_directory_uri() . '/res/logos/tent-white.svg';
+	}
+	elseif(is_front_page()|| is_home()){
+		$tempDir=get_template_directory_uri() . '/res/logos/tent-white.svg';
+	}
 	// $items .= '<li>' . get_search_form() . '</li>';
-	$items .= '<li><img src="' . get_template_directory_uri() . '/res/logos/inhabitent-logo-tent-white.svg' . '" class="logo-head"></li>';
+	$items .= '<li><img src="' .$tempDir  . '" class="logo-head"></li>';
 	$items .= '<li><i class="fa fa-search" ></i></li>';
 	return $items;
 }

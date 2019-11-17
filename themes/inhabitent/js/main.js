@@ -25,7 +25,13 @@
 
 //*******CLICK event at FOOTER PAGE */
 $(document).on('click','.footer-logo',function(e){
-  window.location.href = window.location.href;
+  // window.location.href = window.location.orign;
+  location.replace(window.location.origin+'/inhabitent');
+  e.preventDefault();
+  
+});
+$(document).on('click','.logo-head',function(e){
+  location.replace(window.location.origin+'/inhabitent');
   e.preventDefault();
 });
 

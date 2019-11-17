@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.2.4" created="2019-11-15 06:16" -->
+	<!-- generator="WordPress/5.2.4" created="2019-11-17 07:56" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>RED-Inhabitent</title>
 	<link>http://localhost:8888/inhabitent</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Fri, 15 Nov 2019 06:16:44 +0000</pubDate>
+	<pubDate>Sun, 17 Nov 2019 07:56:59 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost:8888/inhabitent</wp:base_site_url>
@@ -295,7 +295,7 @@
 		<dc:creator><![CDATA[soservin07]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/inhabitent/?post_type=acf-field-group&#038;p=105</guid>
 		<description></description>
-		<content:encoded><![CDATA[a:7:{s:8:"location";a:1:{i:0;a:1:{i:0;a:3:{s:5:"param";s:4:"post";s:8:"operator";s:2:"==";s:5:"value";s:2:"56";}}}s:8:"position";s:6:"normal";s:5:"style";s:7:"default";s:15:"label_placement";s:3:"top";s:21:"instruction_placement";s:5:"label";s:14:"hide_on_screen";s:0:"";s:11:"description";s:0:"";}]]></content:encoded>
+		<content:encoded><![CDATA[a:7:{s:8:"location";a:1:{i:0;a:1:{i:0;a:3:{s:5:"param";s:9:"post_type";s:8:"operator";s:2:"==";s:5:"value";s:7:"product";}}}s:8:"position";s:6:"normal";s:5:"style";s:7:"default";s:15:"label_placement";s:3:"top";s:21:"instruction_placement";s:5:"label";s:14:"hide_on_screen";a:1:{i:0;s:6:"format";}s:11:"description";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[product_sleep_price]]></excerpt:encoded>
 		<wp:post_id>105</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-12 23:00:44]]></wp:post_date>
@@ -1302,7 +1302,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>STAR-GAZING AT THE NIGHT SKY</title>
+		<title>Star-Gazing at the Night Sky</title>
 		<link>http://localhost:8888/inhabitent/adventures/star-gazing-at-the-night-sky/</link>
 		<pubDate>Fri, 15 Nov 2019 06:14:12 +0000</pubDate>
 		<dc:creator><![CDATA[soservin07]]></dc:creator>
@@ -1336,7 +1336,7 @@ Stumptown lomo migas squid, ennui flexitarian normcore swag four dollar toast ne
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>TAKING IN THE VIEW AT BIG MOUNTAIN</title>
+		<title>Taking in the View at Big Mountain</title>
 		<link>http://localhost:8888/inhabitent/adventures/taking-in-the-view-at-big-mountain/</link>
 		<pubDate>Fri, 15 Nov 2019 06:14:44 +0000</pubDate>
 		<dc:creator><![CDATA[soservin07]]></dc:creator>
@@ -1370,7 +1370,7 @@ Cardigan cronut fingerstache chartreuse hoodie everyday carry, pour-over kicksta
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>A NIGHT WITH FRIENDS AT THE BEACH</title>
+		<title>A Night with Friends at the Beach</title>
 		<link>http://localhost:8888/inhabitent/adventures/a-night-with-friends-at-the-beach/</link>
 		<pubDate>Fri, 15 Nov 2019 06:15:06 +0000</pubDate>
 		<dc:creator><![CDATA[soservin07]]></dc:creator>
@@ -1404,7 +1404,7 @@ Fixie bushwick tacos gastropub. Cliche neutra man bun vinyl authentic. Tote bag 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>GETTING BACK TO NATURE IN A CANOE</title>
+		<title>Getting Back to Nature in a Canoe</title>
 		<link>http://localhost:8888/inhabitent/adventures/getting-back-to-nature-in-a-canoe/</link>
 		<pubDate>Fri, 15 Nov 2019 06:15:25 +0000</pubDate>
 		<dc:creator><![CDATA[soservin07]]></dc:creator>
@@ -4266,7 +4266,7 @@ retro. Actually readymade keytar mumblecore direct trade, twee kombucha iPhone.<
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1.55]]></wp:meta_value>
+		<wp:meta_value><![CDATA[155.00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>
@@ -4286,7 +4286,7 @@ retro. Actually readymade keytar mumblecore direct trade, twee kombucha iPhone.<
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[product-price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1.55]]></wp:meta_value>
+		<wp:meta_value><![CDATA[155.00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product-price]]></wp:meta_key>

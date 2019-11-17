@@ -28,8 +28,8 @@
 	<div id="page" class="hfeed site">
 		<a class="skip-link screen-reader-text" href="#content"><?php echo esc_html('Skip to content'); ?></a>
 
-		<header id="masthead" class="site-header" role="banner">
-			<div class="site-branding">
+		<header id="masthead" class="main-header" role="banner">
+			<div class="main-branding">
 				<h1 class="site-title screen-reader-text"><a href="<?php echo esc_url(home_url('/')); ?>" rel="home"><?php bloginfo('name'); ?></a></h1>
 			</div><!-- .site-branding -->
 
@@ -41,7 +41,7 @@
 						'theme_location' => 'top-menu',
 					)
 				);
-				$img = get_field('front-banner');
+				$img = get_field('main-banner');
 				$img2 = get_template_directory_uri() . '/res/logos/inhabitent-logo-full.svg';
 				?>
 

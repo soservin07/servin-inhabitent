@@ -8,18 +8,18 @@
 get_header(); ?>
 
 	<div id="primary" class="content-area">
-		<main id="main" class="site-main" role="main">
-
+		<main id="main" class="main-site" role="main">
+			<h2>
+		<?php
+					wp_title('');
+					// the_archive_title( '<h1 class="page-title">', '</h1>' );
+					// the_archive_description( '<div class="taxonomy-description">', '</div>' );
+				?>
+				</h2>
 		<?php if ( have_posts() ) : ?>
 
-			<header class="page-header">
-				<?php
-					the_archive_title( '<h1 class="page-title">', '</h1>' );
-					the_archive_description( '<div class="taxonomy-description">', '</div>' );
-				?>
-			</header><!-- .page-header -->
-
-			<?php /* Start the Loop */ ?>
+			
+			<section class="article-content">
 			<?php while ( have_posts() ) : the_post(); ?>
 
 				<?php
@@ -28,16 +28,18 @@ get_header(); ?>
 
 			<?php endwhile; ?>
 
-			<?php the_posts_navigation(); ?>
+			<?php //the_posts_navigation(); ?>
 
-		<?php else : ?>
+			<?php else : ?>
 
 			<?php get_template_part( 'template-parts/content', 'none' ); ?>
 
-		<?php endif; ?>
+			<?php endif; ?>
+			</section>
+			
 
 		</main><!-- #main -->
 	</div><!-- #primary -->
 
-<?php get_sidebar(); ?>
+<?php //get_sidebar(); ?>
 <?php get_footer(); ?>

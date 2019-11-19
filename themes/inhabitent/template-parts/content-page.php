@@ -1,4 +1,5 @@
- <?php
+<?php
+
 /**
  * Template part for displaying page content in page.php.
  *
@@ -9,63 +10,25 @@
 
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 	<header class="entry-header">
-		<h1 class="entry-title">
-			SHOP STUFF
-		</h1>
+		<?php //the_title('<h1 class="entry-title">', '</h1>'); 
+		?>
 	</header><!-- .entry-header -->
 
-	<div class="page-content">
-		<ul>
-
+	<div class="entry-content">
+		<?php the_content(); ?>
 		<?php
-		$tmp='';
-		$terms = get_terms( array(
-			'taxonomy' => 'product-type',
-			'hide_empty' => 0
-		) );
-		if ( ! empty( $terms ) && ! is_wp_error( $terms ) ) {
-			foreach($terms as $x){
-				$tmp.='<li><a href="' . get_term_link($x) .'">'. $x->slug .'</a></li>';
-				
-			}
-			echo $tmp;
-		}
-		
+		wp_link_pages(array(
+			'before' => '<div class="page-links">' . esc_html('Pages:'),
+			'after'  => '</div>',
+		));
 		?>
-		
-		<?php
-			// wp_link_pages( array(
-			// 	'before' => '<div class="page-links">' . esc_html( 'Pages:' ),
-			// 	'after'  => '</div>',
-			// ) );
-		?>
-		</ul>
-		<section class="product-list">
-			
-				<ul>
-					<?php
-						$args= array( 
-						'numberposts'		=> -1, // -1 is for all
-						'post_type'		=> 'product', // or 'post', 'page'
-						'tax_query'=>array('taxonomy'=>'product-type'),
-						'orderby'=>'title',
-						'order'=>'ASC'
-						//'category' 		=> $category_id,
-						//'exclude'		=> get_the_ID()
-						// ...
-						);
-						$tmp='';
-						$posts=get_posts($args);
-						foreach($posts as $x){
-						setup_postdata($x);
-						$tmp.='<li>
-							<nav>'.get_the_post_thumbnail($x->ID,'medium').'</nav>
-							<span><h2>'. get_the_title($x) .'</h2> <p>$'.number_format(get_field('product-price',$x->ID),2,".",",") .'</p></span>
-						</li>';
-						}
-						echo $tmp;
-					?>
-				</ul>
-		</section>
-	</div><!-- .entry-content -->
+	</div>
+	<?php
+	if (is_page('find-us')) {
+		echo '<section class="widget-section">';
+		get_sidebar();
+		echo '</section>';
+	}
+	?>
+	<!-- .entry-content -->
 </article><!-- #post-## -->

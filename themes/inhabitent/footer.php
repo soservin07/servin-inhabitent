@@ -16,7 +16,7 @@
 			<li>CONTACT INFO</li>
 			<li><i class="fa fa-envelope"></i> <?php the_field('email'); ?></li>
 			<li>
-				<i class="fa fa-phone"></i>(+1)-778-456-7891 
+				<i class="fa fa-phone"></i>(+1)-778-456-7891
 			</li>
 			<li><a href="#"><i class="fa fa-facebook-square"></i></a>
 				<a href="#"><i class="fa fa-twitter-square"></i></a>
@@ -29,7 +29,7 @@
 			<li><strong>Saturday : </strong>10am to 2pm</li>
 			<li><strong>Sunday : </strong>Closed</li>
 		</ul>
-		<img src="<?php echo get_template_directory_uri().'/res/logos/text-white.svg';?>" alt="dark-forest" class="footer-logo">
+		<img src="<?php echo get_template_directory_uri() . '/res/logos/text-white.svg'; ?>" alt="dark-forest" class="footer-logo">
 	</div>
 	<p class="site-copy">&copyCOPYRIGHT © 2019 INHABITENT</p>
 	</div> <!-- .site-info -->

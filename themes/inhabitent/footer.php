@@ -14,7 +14,7 @@
 	<div class="site-info">
 		<ul class="contact-info">
 			<li>CONTACT INFO</li>
-			<li><i class="fa fa-envelope"></i> <?php the_field('email'); ?></li>
+			<li><i class="fa fa-envelope"></i> info@inhabitent.com</li>
 			<li>
 				<i class="fa fa-phone"></i>(+1)-778-456-7891
 			</li>

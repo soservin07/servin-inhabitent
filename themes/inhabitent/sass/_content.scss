@@ -27,14 +27,14 @@
       padding-top: 5%;
       width: 70%;
       align-self: center;
-      font-size: 3vmax;
+      font-size: 2.7vmax;
       text-transform: uppercase;
       margin: 0 auto;
     }
     .entry-meta {
       width: 70%;
       margin: 2% auto;
-      font-size: 1.2rem;
+      font-size: 0.8rem;
       text-transform: uppercase;
       color: #404040;
     }
@@ -74,6 +74,7 @@
           text-decoration: none;
           color: #404040;
           font-size: 1vmax;
+          
           i {
             font-size: 1.3vmax;
             margin-right: 5%;
@@ -85,11 +86,11 @@
 }
 //***************CODING for PAGE AREA
 .entry-title {
-  width: 100%;
+  width: 1120px;
   text-align: center;
 }
 .page-content {
-  width: 100%;
+  width: 1120px;
 
   ul {
     width: 100%;
@@ -106,6 +107,7 @@
         text-decoration: none;
         text-transform: uppercase;
         color: #248a83;
+        font-size:1.3vmax;
         &:hover {
           cursor: pointer;
           color: #2f1339;
@@ -181,13 +183,13 @@
 }
 .taxonomy-description {
   p {
-    font-size: 3vmin;
+    font-size: 1.8vmin;
   }
 }
 .tax-content {
   display: flex;
   flex-flow: row-reverse nowrap;
-  width: 90%;
+  width: 1120px;
   margin: 0 auto;
   box-sizing: inherit;
   justify-content: center;
@@ -196,7 +198,7 @@
     flex: 1 0 20%;
     display: block;
     margin: 0 1%;
-    height: 28vmax;
+    height: 25vmax;
     border: 1px solid #e1e1e1;
     align-self: center;
     overflow: hidden;
@@ -217,12 +219,14 @@
         border-bottom: 5px solid #e1e1e1;
       }
       .tax-title {
-        display: flex;
-        flex-flow: row nowrap;
-        font-size: 2.5vmin;
+        font-size: 1.7vmin;
         width: 100%;
-        justify-content: space-evenly;
+        justify-content: space-around;
         a {
+          margin:0 auto;
+          display: inline-flex;
+          justify-content: space-between;
+          font-family: 'Merriweather Web',serif;
           letter-spacing: 0;
           word-break: unset;
           text-align: left;
@@ -231,6 +235,7 @@
           text-transform: capitalize;
         }
         p {
+          margin-left:5%;
           z-index: 2;
         }
       }
@@ -288,6 +293,7 @@
   }
 
   .main-navigation {
+    font-family: 'Novecento Sans Web',sans-serif;
     background: transparent;
     color: white;
     display: flex;
@@ -301,7 +307,7 @@
     z-index: 2;
     .logo-head {
       height: auto;
-      width: 4vmax;
+      width: 3.5vmax;
     }
     .search-form {
       margin-right: 2%;
@@ -353,7 +359,7 @@
             transition: 0.5s linear;
           }
           &:nth-child(1) {
-            margin-left: 50%;
+            margin-left: 70%;
           }
           &:nth-child(5) {
             order: -1;
@@ -377,6 +383,10 @@
           a {
             color: white;
             text-transform: uppercase;
+            &:hover{
+              cursor: pointer;
+              color:#f0e4d1;
+            }
           }
         }
       }
@@ -387,12 +397,15 @@
   width: 100%;
   height: 50vmax;
   z-index: 1;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
 }
 //*************END OF HEADER
 //********* start for contents
 //**CODING for SHOP STUFF
 .shop-stuff {
-  width: 80%;
+  width: 1120px;
   height: auto;
   position: relative;
   padding: 2% 0;
@@ -400,7 +413,7 @@
   h2 {
     text-align: center;
     font-weight: 300;
-    font-size: 2vmax;
+    font-size: 2.2vmax;
     margin-bottom: 5%;
   }
   div {
@@ -436,7 +449,7 @@
         }
         img {
           height: auto;
-          width: 8vmax;
+          width: 5vmax;
           margin: 5% auto;
         }
         a {
@@ -461,13 +474,13 @@
 **************START of CODING for JOURNAL SECTION
 */
 .inhabitent-journal {
-  width: 80%;
+  width: 1120px;
   height: auto;
   margin: 0 auto 5% auto;
   h2 {
     text-align: center;
     font-weight: 300;
-    font-size: 2vmax;
+    font-size: 2.2vmax;
     margin-bottom: 5%;
   }
   ul {
@@ -491,6 +504,8 @@
         position: relative;
         background: #e1e1e1;
         padding-bottom: 1px;
+        height:20vmax;
+        border-bottom: 5px solid #e1e1e1;
         img {
           object-fit: cover;
           width: 100%;
@@ -510,6 +525,8 @@
           text-decoration: none;
           text-decoration-color: #248a83;
           color: #248a83;
+          font-weight: bold;
+          text-transform: uppercase;
         }
       }
       .read-entry {
@@ -537,7 +554,7 @@
 } //***********END for JOURNAL SECTION
 //*************START for LATEST Adventures
 .latest-adv {
-  width: 80%;
+  width: 1120px;
   margin: 0 auto 2% auto;
   position: relative;
   height: inherit;
@@ -545,7 +562,7 @@
   h2 {
     text-align: center;
     font-weight: 300;
-    font-size: 2vmax;
+    font-size: 2.2vmax;
   }
   ul {
     width: 100%;
@@ -587,14 +604,21 @@
         align-content: center;
         background: rgba(0, 0, 0, 0.2);
         text-transform: capitalize;
+        font-family: 'Merriweather Web',serif;
+        line-height: 1.2;
+        &:hover, &:hover a{
+          cursor: pointer;
+          color:#f0e4d1;
+        }
         a {
           display: block;
-          font-size: 1.5vmax;
+          font-size:3vmax;
           word-wrap: break-word;
           text-align: left;
           width: 100%;
           border: 0;
           pointer-events: none;
+          
         }
       }
 
@@ -630,7 +654,7 @@
     margin-top: 2%;
     position: relative;
     display: inherit;
-    width: 15%;
+    width: max-content;
     text-align: center;
     &:hover {
       cursor: pointer;
@@ -710,6 +734,7 @@
   width: 100%;
   color: #248a83;
   .main-navigation {
+    font-family: 'Novecento Sans Web','sans-serif';
     background: hsla(0, 0%, 100%, 0.85);
     border-bottom: 1px solid #c8c8c8;
     display: flex;
@@ -804,9 +829,13 @@
 
   .head-pic {
     color: #248a83;
-    width: 100%;
-    height: 50vmax;
-    z-index: 1;
+    
+      width: 100%;
+      height: 50vmax;
+      z-index: 1;
+      justify-content: center;
+      align-content: center;
+      align-items: center;
   }
 }
 .main-site {
@@ -819,8 +848,9 @@
     width: 100%;
     text-align: center;
     font-weight: 600;
-    font-size: 3vmax;
+    font-size: 2.6vmax;
     text-transform: uppercase;
+    font-family: 'Novecento Sans Web',sans-serif;
   }
   .taxonomy-description {
     width: 100%;
@@ -951,12 +981,16 @@
   display: grid;
   width: 90%;
   margin: 0 auto;
-  grid-template-columns: 70% 1fr;
-  grid-gap: 5px;
+ 
   text-align: left;
   &:after,
   &:before {
     box-sizing: border-box;
+  }
+  .home-main{
+    width:100%;
+    grid-template-columns: 70% 1fr;
+    grid-gap: 5px;
   }
   .entry-header {
     display: none;
@@ -993,7 +1027,7 @@
   .widget-section {
     width: 100%;
     height: 100%;
-    grid-column: 2 / span 2;
+    grid-column: 2;
     padding: 0 2%;
     h2 {
       font-size: 5vmin;
@@ -1007,5 +1041,97 @@
       text-decoration: none;
       color: #248a83;
     }
+  }
+}
+//***************PRODUCT's Specific item PAGE
+.single-area{
+  position: relative;
+  transform: translateY(6rem);
+  margin:0 auto;
+  width:1120px;
+  height:46vmax;
+  .single-main{
+    width: 100%;
+    ul{
+      width:100%;
+      display:grid;
+      grid-template-columns: repeat(5,1fr);
+      grid-template-rows:repeat(5,1fr) ;
+      height:38vmax;
+      li{
+        background:white;
+        &:nth-child(1){
+          grid-column: 1 /span 3;
+          grid-row: 1/span 5;
+          z-index: -1;
+          overflow: hidden;
+          img{
+            object-fit: cover;
+            position: absolute;
+            width: auto;
+            height: 65%;
+            align-self:center;
+          }
+        }
+        &:nth-child(2){
+          padding-left:2%;
+          grid-column: 4 /span 5;
+          font-weight: 500;
+          font-family: 'Novecento Sans Web',sans-serif;
+          color:#d99054;
+          font-size:5vmin;
+          text-transform: uppercase;
+        }
+        &:nth-child(3){
+          padding-left:2%;
+          font-family: 'Novecento Sans Web',sans-serif;
+          font-size:3vmin;
+          grid-column: 4 /span 5;
+        }
+        &:nth-child(4){
+          padding-left:2%;
+          font-size:1.7vmin;
+          grid-column: 4 /span 5;
+          p{
+            text-align: justify;
+          }
+          span{
+            
+            line-height: 1.5;
+          }
+        }
+        &:nth-child(5){
+          padding-left:2%;
+          grid-column: 4 /span 5;
+          i{
+            padding: 3% 4%;
+            border:1px solid black;
+            font-size: 1.4vmin;
+            &:hover {
+              cursor: pointer;
+              background:#248a83;
+              color:white;
+            }
+          }
+          
+        }
+      }
+
+    }
+  }
+}
+
+//***********STYLE for JOURNAL PAGE
+.home-area{
+  width:80%;
+  margin: 0 auto;
+  display:grid;
+    grid-template-columns: 3fr 1fr;
+    transform:translateY(6em);
+  .home-main{
+    grid-column: 1;
+  }
+  .widget-area{
+    grid-column: 2;
   }
 }

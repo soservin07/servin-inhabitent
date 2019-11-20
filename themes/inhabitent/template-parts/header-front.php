@@ -5,8 +5,9 @@
  *
  * @package RED_Starter_Theme
  */
-global $tmpDisplay;
-$tmpDisplay='flex';
+$tmpDisplay = 'flex';
+$img = get_field('front-banner');
+$img2 = get_template_directory_uri() . '/res/logos/inhabitent-logo-full.svg';
 ?>
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>>
@@ -42,8 +43,7 @@ $tmpDisplay='flex';
 						'theme_location' => 'top-menu',
 					)
 				);
-				$img = get_field('front-banner');
-				$img2 = get_template_directory_uri() . '/res/logos/inhabitent-logo-full.svg';
+
 				?>
 
 				<!-- <button class="search-link">
@@ -51,15 +51,14 @@ $tmpDisplay='flex';
 				</button> -->
 			</nav><!-- #site-navigation -->
 			<?php
-			
+
 			if (is_single() || is_page('about')) {
 				$tmpDisplay = 'none';
 			}
 			?>
-			
-				 <div class="head-pic" style='background: linear-gradient(rgba(0,0,0,0.25),rgba(0,0,0,0.10)),url("<?=$img['url']?>");background-size:100vmax;background-position:left top;display: <?= $tmpDisplay ?> ;'>
-					<img class="logo-bilog" src=" <?= $img2?>" alt="inhabitent">;
-				
+			<div class="head-pic" style='background: linear-gradient(rgba(0,0,0,0.25),rgba(0,0,0,0.10)),url("<?php print $img["url"]; ?>");background-size:100vmax;background-position:left top;display: <?php print $tmpDisplay; ?> '>
+				<img class="logo-bilog" src=" <?php print $img2; ?>" alt="inhabitent">;
+
 			</div>
 
 		</header> <!-- #masthead -->

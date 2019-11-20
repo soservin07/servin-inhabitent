@@ -33,7 +33,7 @@
 				<h1 class="site-title screen-reader-text"><a href="<?php echo esc_url(home_url('/')); ?>" rel="home"><?php bloginfo('name'); ?></a></h1>
 			</div><!-- .site-branding -->
 
-			<nav id="site-navigation" class="main-navigation" role="navigation">
+			<nav id="site-navigation" class="head-navigation" role="navigation">
 				<?php
 				get_search_form();
 				wp_nav_menu(
@@ -46,7 +46,7 @@
 				?>
 
 			</nav><!-- #site-navigation -->
-			
+
 		</header> <!-- #masthead -->
 
 		<div id="content" class="site-content">

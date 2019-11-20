@@ -184,42 +184,42 @@ table {
 @font-face {
   font-family: "Merriweather Web";
   src: url("fonts/merriweather-light-webfont.eot");
-  src: url("fonts/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/merriweather-light-webfont.woff2") format("woff2"), url("fonts/merriweather-light-webfont.woff") format("woff"), url("fonts/merriweather-light-webfont.ttf") format("truetype"), url("fonts/merriweather-light-webfont.svg#merriweatherlight") format("svg");
+  src: url("fonts/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/merriweather-light-webfont.woff") format("woff"), url("fonts/merriweather-light-webfont.ttf") format("truetype"), url("fonts/merriweather-light-webfont.svg#merriweatherlight") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "Merriweather Web";
   src: url("fonts/merriweather-lightitalic-webfont.eot");
-  src: url("fonts/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/merriweather-lightitalic-webfont.woff2") format("woff2"), url("fonts/merriweather-lightitalic-webfont.woff") format("woff"), url("fonts/merriweather-lightitalic-webfont.ttf") format("truetype"), url("fonts/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
+  src: url("fonts/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/merriweather-lightitalic-webfont.woff") format("woff"), url("fonts/merriweather-lightitalic-webfont.ttf") format("truetype"), url("fonts/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
   font-weight: normal;
   font-style: italic;
 }
 @font-face {
   font-family: "Merriweather Web";
   src: url("fonts/merriweather-bold-webfont.eot");
-  src: url("fonts/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/merriweather-bold-webfont.woff2") format("woff2"), url("fonts/merriweather-bold-webfont.woff") format("woff"), url("fonts/merriweather-bold-webfont.ttf") format("truetype"), url("fonts/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
+  src: url("fonts/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/merriweather-bold-webfont.woff") format("woff"), url("fonts/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
   font-family: "Merriweather Web";
   src: url("fonts/merriweather-bolditalic-webfont.eot");
-  src: url("fonts/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/merriweather-bolditalic-webfont.woff2") format("woff2"), url("fonts/merriweather-bolditalic-webfont.woff") format("woff"), url("fonts/merriweather-bolditalic-webfont.ttf") format("truetype"), url("fonts/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
+  src: url("fonts/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/merriweather-bolditalic-webfont.woff") format("woff"), url("fonts/merriweather-bolditalic-webfont.ttf") format("truetype"), url("fonts/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
   font-weight: bold;
   font-style: italic;
 }
 @font-face {
   font-family: "Novecento Sans Web";
   src: url("fonts/novecentosanswide-normal-webfont.eot");
-  src: url("fonts/novecentosanswide-normal-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/novecentosanswide-normal-webfont.woff2") format("woff2"), url("fonts/novecentosanswide-normal-webfont.woff") format("woff"), url("fonts/novecentosanswide-normal-webfont.ttf") format("truetype"), url("fonts/novecentosanswide-normal-webfont.svg#novecento_sans_widenormal") format("svg");
+  src: url("fonts/novecentosanswide-normal-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/novecentosanswide-normal-webfont.svg#novecento_sans_widenormal") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "Novecento Sans Web";
   src: url("fonts/novecentosanswide-demibold-webfont.eot");
-  src: url("fonts/novecentosanswide-demibold-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/novecentosanswide-demibold-webfont.woff2") format("woff2"), url("fonts/novecentosanswide-demibold-webfont.woff") format("woff"), url("fonts/novecentosanswide-demibold-webfont.ttf") format("truetype"), url("fonts/novecentosanswide-demibold-webfont.svg#novecento_sans_widedemibold") format("svg");
+  src: url("fonts/novecentosanswide-demibold-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/novecentosanswide-demibold-webfont.ttf") format("truetype"), url("fonts/novecentosanswide-demibold-webfont.svg#novecento_sans_widedemibold") format("svg");
   font-weight: bold;
   font-style: normal;
 }
@@ -305,6 +305,16 @@ big {
   font-size: 125%;
 }
 
+a, h1, h2, .site-copy, i,
+.business-hour, strong, .contact-info {
+  font-family: "Novecento Sans Web", sans-serif;
+}
+
+p, .entry-meta, li,
+.taxonomy-description {
+  font-family: "Merriweather Web", serif;
+}
+
 /*--------------------------------------------------------------
 # Widgets
 --------------------------------------------------------------*/
@@ -350,14 +360,14 @@ big {
   padding-top: 5%;
   width: 70%;
   align-self: center;
-  font-size: 3vmax;
+  font-size: 2.7vmax;
   text-transform: uppercase;
   margin: 0 auto;
 }
 .hentry .entry-header .entry-meta {
   width: 70%;
   margin: 2% auto;
-  font-size: 1.2rem;
+  font-size: 0.8rem;
   text-transform: uppercase;
   color: #404040;
 }
@@ -404,12 +414,12 @@ big {
 }
 
 .entry-title {
-  width: 100%;
+  width: 1120px;
   text-align: center;
 }
 
 .page-content {
-  width: 100%;
+  width: 1120px;
 }
 .page-content ul {
   width: 100%;
@@ -427,6 +437,7 @@ big {
   text-decoration: none;
   text-transform: uppercase;
   color: #248a83;
+  font-size: 1.3vmax;
 }
 .page-content ul li a:hover {
   cursor: pointer;
@@ -478,18 +489,83 @@ big {
   flex-flow: row nowrap;
   justify-content: center;
   align-content: center;
+  color: #2f1339;
 }
 .product-list ul li span h2 {
-  width: max-content;
+  text-transform: none;
+  width: inherit;
   z-index: 2;
+  overflow: hidden;
+  display: inline-flex;
 }
 .product-list ul li span h2:after {
   z-index: -1;
   width: 0;
   white-space: nowrap;
-  content: " ---------------------";
+  content: " .................... ";
 }
 .product-list ul li span p {
+  z-index: 2;
+  padding-left: 2%;
+}
+
+.taxonomy-description p {
+  font-size: 1.8vmin;
+}
+
+.tax-content {
+  display: flex;
+  flex-flow: row-reverse nowrap;
+  width: 1120px;
+  margin: 0 auto;
+  box-sizing: inherit;
+  justify-content: center;
+}
+.tax-content .hentry {
+  width: 100%;
+  flex: 1 0 20%;
+  display: block;
+  margin: 0 1%;
+  height: 25vmax;
+  border: 1px solid #e1e1e1;
+  align-self: center;
+  overflow: hidden;
+  box-sizing: inherit;
+}
+.tax-content .hentry:hover, .tax-content .hentry:hover .tax-header img {
+  cursor: pointer;
+  border-color: #d99054;
+}
+.tax-content .hentry .tax-header {
+  height: 20vmax;
+  width: 100%;
+}
+.tax-content .hentry .tax-header img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  border-bottom: 5px solid #e1e1e1;
+}
+.tax-content .hentry .tax-header .tax-title {
+  font-size: 1.7vmin;
+  width: 100%;
+  justify-content: space-around;
+}
+.tax-content .hentry .tax-header .tax-title a {
+  margin: 0 auto;
+  display: inline-flex;
+  justify-content: space-between;
+  font-family: "Merriweather Web", serif;
+  letter-spacing: 0;
+  word-break: unset;
+  text-align: left;
+  text-decoration: none;
+  color: #2f1339;
+  text-transform: capitalize;
+}
+.tax-content .hentry .tax-header .tax-title p {
+  margin-left: 5%;
   z-index: 2;
 }
 
@@ -544,6 +620,7 @@ big {
   list-style-type: none;
 }
 .site-header .main-navigation {
+  font-family: "Novecento Sans Web", sans-serif;
   background: transparent;
   color: white;
   display: flex;
@@ -558,7 +635,7 @@ big {
 }
 .site-header .main-navigation .logo-head {
   height: auto;
-  width: 4vmax;
+  width: 3.5vmax;
 }
 .site-header .main-navigation .search-form {
   margin-right: 2%;
@@ -607,7 +684,7 @@ big {
   transition: 0.5s linear;
 }
 .site-header .main-navigation .menu-top-menu-container ul li:nth-child(1) {
-  margin-left: 50%;
+  margin-left: 70%;
 }
 .site-header .main-navigation .menu-top-menu-container ul li:nth-child(5) {
   order: -1;
@@ -632,15 +709,22 @@ big {
   color: white;
   text-transform: uppercase;
 }
+.site-header .main-navigation .menu-top-menu-container ul li a:hover {
+  cursor: pointer;
+  color: #f0e4d1;
+}
 
 .head-pic {
   width: 100%;
   height: 50vmax;
   z-index: 1;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
 }
 
 .shop-stuff {
-  width: 80%;
+  width: 1120px;
   height: auto;
   position: relative;
   padding: 2% 0;
@@ -649,7 +733,7 @@ big {
 .shop-stuff h2 {
   text-align: center;
   font-weight: 300;
-  font-size: 2vmax;
+  font-size: 2.2vmax;
   margin-bottom: 5%;
 }
 .shop-stuff div {
@@ -688,7 +772,7 @@ big {
 }
 .shop-stuff div .shop-list li img {
   height: auto;
-  width: 8vmax;
+  width: 5vmax;
   margin: 5% auto;
 }
 .shop-stuff div .shop-list li a p {
@@ -708,14 +792,14 @@ big {
 **************START of CODING for JOURNAL SECTION
 */
 .inhabitent-journal {
-  width: 80%;
+  width: 1120px;
   height: auto;
   margin: 0 auto 5% auto;
 }
 .inhabitent-journal h2 {
   text-align: center;
   font-weight: 300;
-  font-size: 2vmax;
+  font-size: 2.2vmax;
   margin-bottom: 5%;
 }
 .inhabitent-journal ul {
@@ -741,6 +825,8 @@ big {
   position: relative;
   background: #e1e1e1;
   padding-bottom: 1px;
+  height: 20vmax;
+  border-bottom: 5px solid #e1e1e1;
 }
 .inhabitent-journal ul li nav img {
   object-fit: cover;
@@ -761,6 +847,8 @@ big {
   text-decoration: none;
   text-decoration-color: #248a83;
   color: #248a83;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 .inhabitent-journal ul li .read-entry {
   padding: 3%;
@@ -785,7 +873,7 @@ big {
 }
 
 .latest-adv {
-  width: 80%;
+  width: 1120px;
   margin: 0 auto 2% auto;
   position: relative;
   height: inherit;
@@ -794,7 +882,7 @@ big {
 .latest-adv h2 {
   text-align: center;
   font-weight: 300;
-  font-size: 2vmax;
+  font-size: 2.2vmax;
 }
 .latest-adv ul {
   width: 100%;
@@ -836,10 +924,16 @@ big {
   align-content: center;
   background: rgba(0, 0, 0, 0.2);
   text-transform: capitalize;
+  font-family: "Merriweather Web", serif;
+  line-height: 1.2;
+}
+.latest-adv ul li h2:hover, .latest-adv ul li h2:hover a {
+  cursor: pointer;
+  color: #f0e4d1;
 }
 .latest-adv ul li h2 a {
   display: block;
-  font-size: 1.5vmax;
+  font-size: 3vmax;
   word-wrap: break-word;
   text-align: left;
   width: 100%;
@@ -876,7 +970,7 @@ big {
   margin-top: 2%;
   position: relative;
   display: inherit;
-  width: 15%;
+  width: max-content;
   text-align: center;
 }
 .latest-adv .more-adv:hover {
@@ -948,6 +1042,7 @@ big {
   color: #248a83;
 }
 .main-header .main-navigation {
+  font-family: "Novecento Sans Web", "sans-serif";
   background: rgba(255, 255, 255, 0.85);
   border-bottom: 1px solid #c8c8c8;
   display: flex;
@@ -1038,18 +1133,30 @@ big {
   width: 100%;
   height: 50vmax;
   z-index: 1;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
 }
 
 .main-site {
-  transform: translateY(8%);
+  position: relative;
+  width: 100%;
+  top: 5vmax;
   height: inherit;
   margin-bottom: 15%;
 }
 .main-site h2 {
+  width: 100%;
   text-align: center;
-  font-weight: 500;
-  font-size: 3vmax;
+  font-weight: 600;
+  font-size: 2.6vmax;
   text-transform: uppercase;
+  font-family: "Novecento Sans Web", sans-serif;
+}
+.main-site .taxonomy-description {
+  width: 100%;
+  text-align: center;
+  font-size: 1.2vmax;
 }
 .main-site .article-content {
   height: inherit;
@@ -1064,8 +1171,10 @@ big {
 .main-site .article-content article {
   margin: 1%;
   width: auto;
-  height: 30vmax;
+  height: 40vmax;
   flex: 0 1 40%;
+  overflow: hidden;
+  box-sizing: inherit;
 }
 .main-site .article-content article .entry-header {
   z-index: -1;
@@ -1091,12 +1200,12 @@ big {
   color: white;
   text-decoration: none;
   text-transform: capitalize;
+  z-index: 1;
 }
 .main-site .article-content article .entry-content {
   position: relative;
   z-index: 10;
-  margin: 0 0 0 1%;
-  top: 11%;
+  margin: 0 0 2% 2%;
   width: 100%;
 }
 .main-site .article-content article .entry-content a {
@@ -1109,6 +1218,211 @@ big {
   cursor: pointer;
   background: #248a83;
   color: white;
+}
+
+.about-main {
+  width: 100%;
+  height: inherit;
+  z-index: -1;
+  position: relative;
+}
+.about-main .about-banner {
+  width: 100%;
+  height: 70vmax;
+  display: flex;
+  overflow: hidden;
+}
+.about-main .about-banner img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+}
+.about-main .about-banner h2 {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  position: absolute;
+  height: 70vmax;
+  width: 100%;
+  z-index: 99;
+  background: rgba(0, 0, 0, 0.1);
+  font-weight: 600;
+  font-size: 8vmin;
+  color: white;
+}
+.about-main .entry-content {
+  margin: 3% 0;
+  text-align: justify;
+}
+.about-main .entry-content > * {
+  margin: 2% 0;
+}
+.about-main .entry-content h2 {
+  width: 100%;
+  text-align: center;
+  color: #2f1339;
+  font-size: 5vmin;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.home-main {
+  width: 100%;
+}
+.home-main .hentry {
+  grid-template-columns: 70% 1fr;
+  grid-gap: 5px;
+}
+
+.post-41 {
+  padding-top: 5vmax;
+  display: grid;
+  width: 90%;
+  margin: 0 auto;
+  text-align: left;
+}
+.post-41:after, .post-41:before {
+  box-sizing: border-box;
+}
+.post-41 .entry-header {
+  display: none;
+  grid-column: 1/2;
+}
+.post-41 .entry-content {
+  width: 100%;
+}
+.post-41 .entry-content h2 {
+  font-size: 5vmin;
+  font-weight: 600;
+}
+.post-41 .entry-content iframe {
+  width: 100%;
+}
+.post-41 .entry-content .send-us {
+  font-size: 5vmin;
+  font-weight: 600;
+}
+.post-41 .entry-content .wpcf7-submit {
+  padding: 2% 3%;
+  background: #248a83;
+  color: white;
+  border: 0;
+}
+.post-41 .entry-content .wpcf7-submit:hover {
+  background: #19625d;
+  color: white;
+  cursor: pointer;
+}
+.post-41 .entry-content .wpcf7-textarea {
+  width: 90%;
+}
+.post-41 .widget-section {
+  width: 100%;
+  height: 100%;
+  grid-column: 2;
+  padding: 0 2%;
+}
+.post-41 .widget-section h2 {
+  font-size: 5vmin;
+  font-weight: 600;
+  margin-bottom: 5%;
+}
+.post-41 .widget-section span {
+  font-weight: 600;
+}
+.post-41 .widget-section a {
+  text-decoration: none;
+  color: #248a83;
+}
+
+.single-area {
+  position: relative;
+  transform: translateY(6rem);
+  margin: 0 auto;
+  width: 1120px;
+  height: 46vmax;
+}
+.single-area .single-main {
+  width: 100%;
+}
+.single-area .single-main ul {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+  height: 38vmax;
+}
+.single-area .single-main ul li {
+  background: white;
+}
+.single-area .single-main ul li:nth-child(1) {
+  grid-column: 1/span 3;
+  grid-row: 1/span 5;
+  z-index: -1;
+  overflow: hidden;
+}
+.single-area .single-main ul li:nth-child(1) img {
+  object-fit: cover;
+  position: absolute;
+  width: auto;
+  height: 65%;
+  align-self: center;
+}
+.single-area .single-main ul li:nth-child(2) {
+  padding-left: 2%;
+  grid-column: 4/span 5;
+  font-weight: 500;
+  font-family: "Novecento Sans Web", sans-serif;
+  color: #d99054;
+  font-size: 5vmin;
+  text-transform: uppercase;
+}
+.single-area .single-main ul li:nth-child(3) {
+  padding-left: 2%;
+  font-family: "Novecento Sans Web", sans-serif;
+  font-size: 3vmin;
+  grid-column: 4/span 5;
+}
+.single-area .single-main ul li:nth-child(4) {
+  padding-left: 2%;
+  font-size: 1.7vmin;
+  grid-column: 4/span 5;
+}
+.single-area .single-main ul li:nth-child(4) p {
+  text-align: justify;
+}
+.single-area .single-main ul li:nth-child(4) span {
+  line-height: 1.5;
+}
+.single-area .single-main ul li:nth-child(5) {
+  padding-left: 2%;
+  grid-column: 4/span 5;
+}
+.single-area .single-main ul li:nth-child(5) i {
+  padding: 3% 4%;
+  border: 1px solid black;
+  font-size: 1.4vmin;
+}
+.single-area .single-main ul li:nth-child(5) i:hover {
+  cursor: pointer;
+  background: #248a83;
+  color: white;
+}
+
+.home-area {
+  width: 80%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  transform: translateY(6em);
+}
+.home-area .home-main {
+  grid-column: 1;
+}
+.home-area .widget-area {
+  grid-column: 2;
 }
 
 /*--------------------------------------------------------------

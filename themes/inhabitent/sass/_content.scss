@@ -454,7 +454,7 @@
         }
         a {
           p {
-            font-size: 1.8vmax;
+            font-size: 1.8vmin;
             background-color: #248a83;
             color: white;
             margin: 0 auto;
@@ -1137,10 +1137,14 @@
   width: 80%;
   margin: 0 auto;
   display: grid;
-  grid-template-columns: 3fr 1fr;
+  grid-template-columns: 4fr 1fr;
   transform: translateY(6em);
+  padding-bottom:5%;
   .home-main {
     grid-column: 1;
+    ul{
+      padding:0;
+    }
   }
   .widget-area {
     grid-column: 2;
@@ -1287,8 +1291,8 @@
 //****************SINGLE Specific PAGE
 .si-area {
   width: 100%;
-  padding: 0 5%;
-  transform: translateY(4em);
+  padding: 0 5% 10% 5%;
+  transform: translateY(6em);
   display: grid;
   grid-template-columns: 4fr 1fr;
   .si-main {
@@ -1336,6 +1340,6 @@
     }
   }
   .widget-area {
-    border: 1px dotted red;
+    display: block;
   }
 }

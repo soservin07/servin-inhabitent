@@ -19,7 +19,7 @@ Inhabitent, Camping Hipsters! - [Servin's INHABITENT](http://soservin07.github.i
   * _main_,
   * _form_,
   * _footer_,
-![Inhabitent](https://github.com/soservin07/servin-inhabitent/blob/master/Screenshot1.jpg)
+![Inhabitent](https://github.com/soservin07/servin-inhabitent/blob/master/Screenshot2.jpg)
 ### SASS/CSS
 
 * SASS
@@ -37,7 +37,7 @@ Inhabitent, Camping Hipsters! - [Servin's INHABITENT](http://soservin07.github.i
 * JQuery
 * Basic Javascript
 
-![Inhabitent](https://github.com/soservin07/servin-inhabitent/Screenshot3.jpg)
+![Inhabitent](https://github.com/soservin07/servin-inhabitent/blob/master/Screenshot3.jpg)
 
 ### Software
 

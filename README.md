@@ -1,4 +1,4 @@
-﻿# INSTANEWS - NYT News Reader - APP
+﻿# INHABITENT - Hipsters Camping site! - APP
 
 Inhabitent, Camping Hipsters! - [Servin's INHABITENT](http://soservin07.github.io/servin-inhabitent/)
 

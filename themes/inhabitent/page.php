@@ -43,7 +43,7 @@ $query = get_posts($args);
 						<?php echo get_the_post_thumbnail($x, 'large'); ?>
 						<h2><a href=" <?php echo $url; ?> "><?php echo get_the_title($x); ?></a>
 						</h2>
-						<span><?php print get_the_date('d F Y', $x) ?>&nbsp|&nbsp <?php print get_comments_number($x) ?> Comments &nbsp|&nbsp By:<?php print get_author_name($x->post_author) ?>
+						<span><?php print get_the_date('d F Y', $x) ?>&nbsp|&nbsp <?php print get_comments_number($x) ?> Comments &nbsp|&nbsp By <?php print get_author_name($x->post_author) ?>
 						</span>
 					</nav>
 					<p><?php

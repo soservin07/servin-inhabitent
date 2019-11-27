@@ -11,13 +11,17 @@ if (!is_singular('adventures')) {
 } else {
 	get_template_part('template-parts/header', 'front');
 }
-
-
+$tmpClass = '';
+$tmpClass2 = '';
+if (is_singular('adventures')) {
+	$tmpClass = 'area-adventures';
+	$tmpClass2 = 'main-adventures';
+}
 
 ?>
 
-<div id="primary" class="si-area">
-	<main id="main" class="si-main" role="main">
+<div id="primary" class="si-area <?= $tmpClass ?>">
+	<main id="main" class="si-main <?= $tmpClass2 ?>" role="main">
 
 		<?php while (have_posts()) : the_post(); ?>
 

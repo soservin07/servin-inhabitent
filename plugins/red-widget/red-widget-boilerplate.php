@@ -139,6 +139,11 @@ class BusinessHours extends WP_Widget
 		$instance['sched3_val'] = strip_tags($new_instance['sched3_val']);
 		// TODO: Here is where you update the rest of your widget's old values with the new, incoming values
 
+
+		//**** for CONTACT INFO */
+		$instance['fld_number'] = strip_tags($new_instance['fld_number']);
+		$instance['fld_email'] = strip_tags($new_instance['fld_email']);
+		$instance['fld_address'] = strip_tags($new_instance['fld_address']);
 		return $instance;
 	} // end widget
 

@@ -38,7 +38,7 @@ get_header(); ?>
 							the_title(sprintf('<h2 class="entry-title"><a href="%s" rel="bookmark">', esc_url(get_permalink())), '</a></h2>');
 							?>
 						<?php if (has_post_thumbnail()) : ?>
-							<?php the_post_thumbnail('large'); ?>
+							<?php the_post_thumbnail('xl'); ?>
 						<?php endif; ?>
 
 

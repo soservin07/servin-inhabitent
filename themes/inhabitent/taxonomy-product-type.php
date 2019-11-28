@@ -13,15 +13,8 @@ get_header(); ?>
         <h2>
             <?php
             $query = get_queried_object();
-            // if ($query->slug == 'do' || $query->slug == 'eat' || $query->slug == 'sleep' || $query->slug == 'wear') {
             echo '<h2>' . strtoupper($query->slug) . '</h2>';
             the_archive_description('<div class="taxonomy-description">', '</div>');
-            // } else {
-            //     wp_title('');
-            // }
-
-            // the_archive_title( '<h1 class="page-title">', '</h1>' );
-
 
             ?>
         </h2>

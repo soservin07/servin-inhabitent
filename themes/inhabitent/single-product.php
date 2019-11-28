@@ -8,7 +8,6 @@
 get_header();
 
 $tmp = '';
-// $price =  empty(the_field('product-price')) ? '0.00' : number_format(the_field('product-price'), 2, ".", ',');
 ?>
 
 <div id="primary" class="single-area">
@@ -30,6 +29,6 @@ $tmp = '';
     </main><!-- #main -->
 </div><!-- #primary -->
 
-<?php //get_sidebar(); 
+<?php
 ?>
 <?php get_footer(); ?>

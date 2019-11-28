@@ -15,12 +15,12 @@ get_header(); ?>
 
 			<?php get_template_part('template-parts/content', 'page'); ?>
 
-		<?php endwhile; // End of the loop. 
+		<?php endwhile;
 		?>
 
 	</main><!-- #main -->
 </div><!-- #primary -->
 
-<?php //get_sidebar(); 
+<?php
 ?>
 <?php get_footer(); ?>

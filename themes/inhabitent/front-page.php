@@ -11,15 +11,14 @@ $args = array(
 	'order' => 'ASC',
 );
 $arrays = new WP_Term_Query($args);
-// $taxs = get_terms(array('taxonomy' => 'product-type'));
-// var_dump($arrays);
+
 $imgPath = '';
- get_template_part( 'template-parts/header', 'front' ); 
+get_template_part('template-parts/header', 'front');
 ?>
 <div id="primary" class="content-area">
 	<main id="main" class="site-main" role="main">
 		<section class="shop-stuff">
-			
+
 			<h2> SHOP STUFF</h2>
 			<div>
 				<ul class="shop-list">
@@ -52,66 +51,66 @@ $imgPath = '';
 		$args = array(
 			'post_type' => 'post',
 			'posts_per_page' => '3',
-			'orderby' => array('title'=>'DESC')
+			'orderby' => array('title' => 'DESC')
 		);
 		$journal_posts = new WP_Query($args);
 		?>
 		<section class="inhabitent-journal">
 			<h2>INHABITENT JOURNAL</h2>
-				<?php
+			<?php
 
-				if ($journal_posts->have_posts()) {
-					$query='<ul>';
-					while ($journal_posts->have_posts()) {
-						$journal_posts->the_post();
-						$query.='<li>';
-						$query.='<nav>'.get_the_post_thumbnail($journal_posts->post_id,'medium').'</nav>';
-						$query.='<p>'. get_the_date('d F Y').' / '. get_comments_number() .' Comments</p>';
-						$query.= '<h2><a href="'.get_the_permalink().'">' . get_the_title() . '</a></h2>';
-						$query.='<a href="'.get_the_permalink().'" class="read-entry">READ ENTRY</a>';
-						$query.='</li>';
-					}
-					$query.='</ul>';
-					echo $query;
+			if ($journal_posts->have_posts()) {
+				$query = '<ul>';
+				while ($journal_posts->have_posts()) {
+					$journal_posts->the_post();
+					$query .= '<li>';
+					$query .= '<nav>' . get_the_post_thumbnail($journal_posts->post_id, 'medium') . '</nav>';
+					$query .= '<p>' . get_the_date('d F Y') . ' / ' . get_comments_number() . ' Comments</p>';
+					$query .= '<h2><a href="' . get_the_permalink() . '">' . get_the_title() . '</a></h2>';
+					$query .= '<a href="' . get_the_permalink() . '" class="read-entry">READ ENTRY</a>';
+					$query .= '</li>';
 				}
+				$query .= '</ul>';
+				echo $query;
+			}
 
-				wp_reset_postdata();
-				?>
+			wp_reset_postdata();
+			?>
 		</section>
-<!--END CODING for Journal
+		<!--END CODING for Journal
 		*************START CODING for Latest ADVENTURES***************
 		-->
 		<?php
 		$args = array(
-			'post_type'=>'adventures',
+			'post_type' => 'adventures',
 			'posts_per_page' => '4',
-			'orderby' => array('publish_date'=>'ASC')
+			'orderby' => array('publish_date' => 'ASC')
 		);
 		$journal_posts = new WP_Query($args);
 		?>
 		<section class="latest-adv">
 			<h2>LATEST ADVENTURES</h2>
 			<?php
-				if ($journal_posts->have_posts()) {
-					$query='<ul>';
-					while ($journal_posts->have_posts()) {
-						$journal_posts->the_post();
-						$query.='<li>
-								'. get_the_post_thumbnail($journal_posts->post_id,'medium').'
+			if ($journal_posts->have_posts()) {
+				$query = '<ul>';
+				while ($journal_posts->have_posts()) {
+					$journal_posts->the_post();
+					$query .= '<li>
+								' . get_the_post_thumbnail($journal_posts->post_id, 'medium') . '
 								<h2>
-								<a href="'.get_the_permalink().'">'.get_the_title().'</a>
+								<a href="' . get_the_permalink() . '">' . get_the_title() . '</a>
 								</h2>
-								<a href="'.get_the_permalink().'">READ MORE</a>';
-							
-						$query.='</li>';
-					}
-					$query.='</ul>';
-					$query.='<a href="'.get_post_type_archive_link('adventures').'" class="more-adv">MORE ADVENTURES</a>';
-					
-					echo $query;
+								<a href="' . get_the_permalink() . '">READ MORE</a>';
+
+					$query .= '</li>';
 				}
-				
-				wp_reset_postdata();
+				$query .= '</ul>';
+				$query .= '<a href="' . get_post_type_archive_link('adventures') . '" class="more-adv">MORE ADVENTURES</a>';
+
+				echo $query;
+			}
+
+			wp_reset_postdata();
 			?>
 		</section>
 

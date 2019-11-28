@@ -53,9 +53,7 @@
                     'tax_query' => array('taxonomy' => 'product-type'),
                     'orderby' => 'title',
                     'order' => 'ASC'
-                    //'category' 		=> $category_id,
-                    //'exclude'		=> get_the_ID()
-                    // ...
+
                 );
                 $tmp = '';
                 $posts = get_posts($args);

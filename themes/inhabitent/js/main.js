@@ -1,8 +1,5 @@
 (function($) {
-  // $.noConflict();
-  // $('.search-field').attr('tabindex', '1');
   $(document).on('click', '.fa-search', function() {
-    // alert('click detected!');
     $('.search-field')
       .css({
         display: 'block',
@@ -12,17 +9,12 @@
       .focus();
   });
 
-  // $('.fa-search').click(function() {
-  //   alert('click detected!');
-  // });
-
   $(document).on('blur', '.search-field', function() {
     $(this).css('display', 'none');
   });
 
   //*******CLICK event at FOOTER PAGE */
   $(document).on('click', '.footer-logo', function(e) {
-    // window.location.href = window.location.orign;
     location.replace(window.location.origin + '/inhabitent');
     e.preventDefault();
   });
@@ -68,19 +60,10 @@
         'text-shadow': '1px 2px rgba(0, 0, 0, 0.459)'
       });
 
-      // $('.head-navigation').css({
-      //   position: 'absolute',
-      //   background: ' transparent'
-      // });
-      // $('.head-navigation  a').css({
-      //   color: '#fff',
-      //   'text-shadow': '1px 2px rgba(0, 0, 0, 0.459)'
-      // });
       tmpBool = false;
     }
     e.preventDefault();
   });
 
-  $('.search-field').attr('placeholder','Type and Hit Enter...');
-
+  $('.search-field').attr('placeholder', 'Type and Hit Enter...');
 })(jQuery);

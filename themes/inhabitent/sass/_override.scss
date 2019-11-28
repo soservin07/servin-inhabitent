@@ -41,24 +41,36 @@
 .side-widget-area {
   display: flex;
   flex-flow: column nowrap;
-  padding: 3% 10%;
+  padding: 0 5%;
   border-left: 1px solid gray;
   width: 100%;
+  aside{
+    width:min-content;
+    p{
+      span{
+        display:block;
+      }
+    }
+  }
   .widget-title {
     font-family: 'Novecento Sans Web', sans-serif;
     font-size: 1.7vmax;
     font-weight: 600;
-    width: 100%;
+    width: max-content;
     margin: 10% 0;
   }
+  
   ul {
     display: flex;
     flex-flow: column nowrap;
 
     li {
       display: inline-flex;
-      justify-content: space-between;
+      justify-content: stretch;
       margin: 1% 0;
+      &:nth-child(1){
+        width: max-content;
+      }
       a {
         text-decoration: none;
         color: #248a83;
@@ -193,4 +205,63 @@
       }
     }
   }
+}
+//************for 404 Page
+.site-content .error-site{
+  display:grid;
+  grid-template-columns: 75% auto;
+  width: 100%;
+  position: relative;
+  transform: translateY(5vmax);
+}
+.error-404{
+  grid-column: 1;
+
+  position: relative;
+  width: 90%;
+  height: inherit;
+  padding-bottom:10vmax;
+  margin: 0 auto;
+  display:flex;
+  flex-flow:column nowrap;
+  box-sizing: border-box;
+  input{
+    font-family: 'Merriweather Web',serif;
+    padding:1%;
+    border:1px solid gray;
+    width:40%;
+  }
+  .search-submit{
+    display:none;
+  }
+  h1{
+    font-size: 3.5vmax;
+  }
+  h2{
+    font-size: 1.8vmax;
+  }
+  .error-content{
+    width: 100%;
+    display:list-item;
+    list-style: none;
+ 
+    ul{
+      display:list-item;
+      li{
+        
+        a{
+          text-transform: capitalize;
+          font-size:1rem;
+        }
+      }
+    }
+  }
+}
+
+.page-title{
+  letter-spacing: 2px;
+    text-transform: uppercase;
+    color:#404040;
+    font-size:2.4rem;
+    font-weight: 600;
 }

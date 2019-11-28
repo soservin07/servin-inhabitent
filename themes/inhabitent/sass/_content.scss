@@ -1112,7 +1112,7 @@ margin:0 auto;
             text-align: justify;
           }
           span {
-            font-size: 1.5vmax;
+            font-size: 1rem;
             line-height: 1.5;
           }
         }
@@ -1228,7 +1228,8 @@ margin:0 auto;
   flex-flow: column nowrap;
   justify-content: flex-start;
   justify-items: left;
-  padding: 0 10%;
+  // padding: 0 10%;
+  width:min-content;
   li {
     flex: 1 0 20vmax;
     padding: 2% 0;

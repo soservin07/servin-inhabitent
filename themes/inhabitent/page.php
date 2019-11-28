@@ -31,12 +31,6 @@ $query = get_posts($args);
 			echo '<ul class="home-list">';
 			foreach ($query as $x) {
 				setup_postdata($x);
-				// echo get_the_post_thumbnail($x, 'large');
-				// echo get_the_title($x);
-				// echo get_the_date('d F Y', $x);
-				// echo get_comments_number($x);
-				// echo get_author_name($x->post_author);
-				// echo $x->post_content;
 				$url = get_permalink($x); ?>
 				<li>
 					<nav>

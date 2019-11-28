@@ -1,76 +1,72 @@
 <?php
 
 /**
- * The template for displaying archive pages.
+ * The template for displaying all pages.
  *
  * @package RED_Starter_Theme
  */
 
-get_header(); ?>
+get_header();
 
-<div id="primary" class="content-area">
-	<main id="main" class="main-site" role="main">
-		<h2>
-			<?php
-			$query = get_queried_object();
-			if ($query->slug == 'do') {
-				echo '<h2>' . strtoupper($query->slug) . '</h2>';
-				the_archive_description('<div class="taxonomy-description">', '</div>');
-			} else {
-				wp_title('');
+?>
+
+<div id="primary" class="home-area">
+	<main id="main" class="home-main" role="main">
+	<h2 class="page-title">
+		<?=get_the_archive_title()?>
+	</h2>
+
+
+		<?php
+			echo '<ul class="home-list">';
+			while(have_posts()){
+				the_post();
+				$url = get_permalink(); ?>
+		<li>
+			<nav>
+				<?php the_post_thumbnail('large'); ?>
+				<h2><a href=" <?php echo $url; ?> "><?php echo the_title(); ?></a>
+				</h2>
+				<span><?php print get_the_date('d F Y') ?>&nbsp|&nbsp <?php print get_comments_number() ?> Comments &nbsp|&nbsp By <?php print get_author_name() ?>
+				</span>
+			</nav>
+			<p><?php
+						echo the_excerpt();
+
+						?>
+			</p>
+			<a href="<?php echo $url; ?>" class="read-more">READ MORE <i class="fa fa-long-arrow-alt-right"></i></a>
+		</li>
+		<?php
 			}
+			echo '</ul>';
+		?>
 
-			// the_archive_title( '<h1 class="page-title">', '</h1>' );
-
-
-			?>
-		</h2>
-
-		<section class="article-content">
-			<?php /* Start the Loop */ ?>
-			<?php while (have_posts()) : the_post(); ?>
-
-
-				<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-					<header class="entry-header">
-						<?php
-
-							the_title(sprintf('<h2 class="entry-title"><a href="%s" rel="bookmark">', esc_url(get_permalink())), '</a></h2>');
-							?>
-						<?php if (has_post_thumbnail()) : ?>
-							<?php the_post_thumbnail('xl'); ?>
-						<?php endif; ?>
-
-
-
-						<?php if ('post' === get_post_type()) : ?>
-							<div class="entry-meta">
-								<?php red_starter_posted_on(); ?> / <?php comments_number('0 Comments', '1 Comment', '% Comments'); ?> / <?php red_starter_posted_by(); ?>
-							</div><!-- .entry-meta -->
-						<?php endif; ?>
-					</header><!-- .entry-header -->
-
-					<div class="entry-content">
-						<?php
-							if (!is_post_type_archive('adventures')) {
-								the_excerpt();
-							} else {
-								echo '<a href="' . get_permalink() . '">READ MORE</a>';
-							}
-
-							?>
-					</div><!-- .entry-content -->
-				</article><!-- #post-## -->
-
-
-			<?php endwhile; ?>
-
-		</section>
 
 
 	</main><!-- #main -->
+	<?php get_sidebar();
+	?>
 </div><!-- #primary -->
 
-<?php //get_sidebar(); 
+
+<?php get_footer();
+
+function get_excerpt_by_id($post_id)
+{
+	$the_post = get_post($post_id); //Gets post ID
+	$the_excerpt = ($the_post ? $the_post->post_content : null); //Gets post_content to be used as a basis for the excerpt
+	$excerpt_length = 50; //Sets excerpt length by word count
+	$the_excerpt = strip_tags(strip_shortcodes($the_excerpt)); //Strips tags and images
+	$words = explode(' ', $the_excerpt, $excerpt_length + 1);
+
+	if (count($words) > $excerpt_length) :
+		array_pop($words);
+		array_push($words, '[....]');
+		$the_excerpt = implode(' ', $words);
+	endif;
+
+	return $the_excerpt;
+}
+
 ?>
-<?php get_footer(); ?>

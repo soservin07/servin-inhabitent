@@ -78,5 +78,9 @@
       // });
       tmpBool = false;
     }
+    e.preventDefault();
   });
+
+  $('.search-field').attr('placeholder','Type and Hit Enter...');
+
 })(jQuery);

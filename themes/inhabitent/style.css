@@ -1440,7 +1440,7 @@ p, .entry-meta, li,
           .single-area .single-main ul li:nth-child(4) p {
             text-align: justify; }
           .single-area .single-main ul li:nth-child(4) span {
-            font-size: 1.5vmax;
+            font-size: 1rem;
             line-height: 1.5; }
         .single-area .single-main ul li:nth-child(5) {
           padding-left: 2%;
@@ -1548,7 +1548,9 @@ p, .entry-meta, li,
       -ms-flex-pack: start;
           justify-content: flex-start;
   justify-items: left;
-  padding: 0 10%; }
+  width: -webkit-min-content;
+  width: -moz-min-content;
+  width: min-content; }
   .home-list li {
     -webkit-box-flex: 1;
         -ms-flex: 1 0 20vmax;
@@ -1703,14 +1705,22 @@ p, .entry-meta, li,
   -webkit-box-direction: normal;
       -ms-flex-flow: column nowrap;
           flex-flow: column nowrap;
-  padding: 3% 10%;
+  padding: 0 5%;
   border-left: 1px solid gray;
   width: 100%; }
+  .side-widget-area aside {
+    width: -webkit-min-content;
+    width: -moz-min-content;
+    width: min-content; }
+    .side-widget-area aside p span {
+      display: block; }
   .side-widget-area .widget-title {
     font-family: 'Novecento Sans Web', sans-serif;
     font-size: 1.7vmax;
     font-weight: 600;
-    width: 100%;
+    width: -webkit-max-content;
+    width: -moz-max-content;
+    width: max-content;
     margin: 10% 0; }
   .side-widget-area ul {
     display: -webkit-box;
@@ -1724,10 +1734,14 @@ p, .entry-meta, li,
       display: -webkit-inline-box;
       display: -ms-inline-flexbox;
       display: inline-flex;
-      -webkit-box-pack: justify;
-          -ms-flex-pack: justify;
-              justify-content: space-between;
+      -webkit-box-pack: stretch;
+          -ms-flex-pack: stretch;
+              justify-content: stretch;
       margin: 1% 0; }
+      .side-widget-area ul li:nth-child(1) {
+        width: -webkit-max-content;
+        width: -moz-max-content;
+        width: max-content; }
       .side-widget-area ul li a {
         text-decoration: none;
         color: #248a83; }
@@ -1859,3 +1873,55 @@ p, .entry-meta, li,
         width: auto;
         height: 100%;
         border-radius: 100%; }
+
+.site-content .error-site {
+  display: grid;
+  grid-template-columns: 75% auto;
+  width: 100%;
+  position: relative;
+  -webkit-transform: translateY(5vmax);
+          transform: translateY(5vmax); }
+
+.error-404 {
+  grid-column: 1;
+  position: relative;
+  width: 90%;
+  height: inherit;
+  padding-bottom: 10vmax;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: column nowrap;
+          flex-flow: column nowrap;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
+  .error-404 input {
+    font-family: 'Merriweather Web',serif;
+    padding: 1%;
+    border: 1px solid gray;
+    width: 40%; }
+  .error-404 .search-submit {
+    display: none; }
+  .error-404 h1 {
+    font-size: 3.5vmax; }
+  .error-404 h2 {
+    font-size: 1.8vmax; }
+  .error-404 .error-content {
+    width: 100%;
+    display: list-item;
+    list-style: none; }
+    .error-404 .error-content ul {
+      display: list-item; }
+      .error-404 .error-content ul li a {
+        text-transform: capitalize;
+        font-size: 1rem; }
+
+.page-title {
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #404040;
+  font-size: 2.4rem;
+  font-weight: 600; }

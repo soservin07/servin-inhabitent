@@ -19,7 +19,7 @@ $tmp = '';
                 <li> <?= the_post_thumbnail('large') ?> </li>
                 <li><?= the_title() ?></li>
                 <li>$ <?php number_format(the_field('product-price'), 2, ".", ',') ?></li>
-                <li><?= the_content() ?></li>
+                <li><?php echo the_content(); ?></li>
                 <li><i class="fa fa-facebook-f">&nbsp LIKE</i>
                     <i class="fa fa-twitter">&nbsp TWEET</i>
                     <i class="fa fa-pinterest">&nbsp PIN</i></li>
